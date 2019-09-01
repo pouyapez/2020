@@ -1,0 +1,187 @@
+-
+  id: 1
+  name: "Waleed"
+  surname: "Ammar"
+  uniqid: "wammar"
+  title: "AI2"
+  talktitle: "Taming the scientific literature: progress and challenges"
+  abstract: "Scientific advances are at the heart of many technologies and prosperous economies. However, the overwhelming growth in scientific literature proved to be a challenge for researchers trying to find related work, stay up to date or do systematic reviews. In this talk, I discuss recent work on analyzing scientific documents to extract meaningful structures and establish connections between different artifacts in the literature. The extracted structures and identified connections combine to build a knowledge graph, thereby enabling researchers to navigate and query the literature more effectively. The constructed knowledge graph can also help address some of the controversial questions about the literature related to, e.g., demographic bias, pre-publishing and team size. I conclude with some of the outstanding challenges and opportunities in this area of research, e.g., document-level salience, result aggregation and impact prediction."
+  bio: "Waleed Ammar is a senior research scientist at the Allen Institute for Artificial Intelligence (AI2). He is interested in developing NLP models with practical applications, especially in the scientific and medical domains. Before joining AI2, Waleed developed morphology models for machine translation with Microsoft Research, and developed semi-supervised and cross-lingual models for low resource languages while pursuing his PhD at Carnegie Mellon University. He co-hosts the NLP highlights podcast which interviews NLP researchers and discusses recent developments in the field. "
+  thumbnailUrl: waleed.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://allenai.org/team/waleeda/"}
+-
+  id: 2
+  name: "Danqi"
+  surname: "Chen"
+  uniqid: "dchen"
+  title: "Stanford, Princeton"
+  talktitle: "How Good are Machine Reading Systems Today?"
+  abstract: "TBA"
+  bio: "Danqi Chen is currently a visiting research scientist at Facebook AI Research (FAIR) and will be joining Princeton University as an assistant professor in Fall 2019. She graduated from Stanford University recently, where she was working with Christopher Manning on deep learning approaches to natural language processing. Her research centers on how computers can achieve a deep understanding of human language and the information it contains. Danqi received Outstanding Paper Awards at ACL 2016 and EMNLP 2017, a Facebook Fellowship, a Microsoft Research Women’s Fellowship."
+  thumbnailUrl: danqi.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://cs.stanford.edu/~danqi/"}
+-
+  id: 3
+  name: "Yejin"
+  surname: "Choi"
+  uniqid: "ychoi"
+  title: "UW, AI2"
+  talktitle: "ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning"
+  abstract: "TBA"
+  bio: "Yejin Choi is an associate professor at the Paul G. Allen School of Computer Science & Engineering at the University of Washington and also a senior research manager at AI2 overseeing the project Mosaic. Her research interests include language grounding with vision, physical and social commonsense knowledge, language generation with long-term coherence, conversational AI, and AI for social good. She was a recepient of Borg Early Career Award (BECA) in 2018, among the IEEE’s AI Top 10 to Watch in 2015, a co-recipient of the Marr Prize at ICCV 2013, and a faculty advisor for the Sounding Board team that won the inaugural Alexa Prize Challenge in 2017. Her work on detecting deceptive reviews, predicting literary success, and interpreting bias and connotation has been featured by numerous media outlets including NBC News for New York, NPR Radio, the New York Times, and Bloomberg Business Week. She received her Ph.D. in Computer Science from Cornell University."
+  thumbnailUrl: yejin.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://homes.cs.washington.edu/~yejin/"}
+-
+  id: 4
+  name: "Laura"
+  surname: "Dietz"
+  uniqid: "ldietz"
+  title: "UNH"
+  talktitle: "Utilizing Knowledge Bases for Text Retrieval: A Wishlist"
+  abstract: "The development of knowledge graph construction methods and the availability of large general-purpose knowlegde graphs (KGs) have led to several advances in information retrieval (IR). For example, entity linking and KGs provide additional useful information about text and search queries, giving rise to more accurate models of relevance. This KG-enabled retrieval approach sets a new standard for several IR benchmarks. However, the exploitation of relational information in IR proves difficult for various reasons, such as low extraction recall, sparsity of schemas, and biases in the extraction pipeline. This talk discusses use cases and necessary conditions for successfully applying AKBC technology in IR. The talk entails a wishlist towards AKBC researchers for widening the impact of knowlegde base construction methods in information retrieval."
+  bio: "Laura Dietz is an Assistant Professor at the University of New Hampshire, where she leads the lab for text retrieval, extraction, machine learning and analytics (TREMA). She organizes a tutorial/workshop series on Utilizing Knowledge Graphs in Text-centric Retrieval (KG4IR) and coordinates the TREC Complex Answer Retrieval Track. She received an NSF CAREER Award for utilizing fine-grained knowledge annotations in text understanding and retrieval.  Previously, she was a research scientist in the Data and Web Science group at Mannheim University, and a research scientist with Bruce Croft and Andrew McCallum at the Center for Intelligent Information Retrieval (CIIR) at UMass Amherst. She obtained her doctoral degree with a thesis on topic models for networked data from Max Planck Institute for Informatics, supervised by Tobias Scheffer and Gerhard Weikum."
+  thumbnailUrl: dietz.plain.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site", link: "http://www.cs.unh.edu/~dietz/"}
+-
+  id: 5
+  name: "Lise"
+  surname: "Getoor"
+  uniqid: "lgetoor"
+  title: "UCSC"
+  talktitle: "Scalably Integrating Statistics and Semantics for Knowledge Graph Construction"
+  abstract: "TBA"
+  bio: "Lise Getoor is a professor in the Computer Science Department at UC Santa Cruz and director of the UCSC D3 Data Science Research Center. Her research areas include machine learning and reasoning under uncertainty; in addition she works in data integration, visual analytics and social network analysis. She has over 200 publications and extensive experience with machine learning and probabilistic modeling methods for graph and network data. She is a Fellow of the Association for Artificial Intelligence, has served as an elected board member of the International Machine Learning Society, has served on the board of the Computing Research Association (CRA), has served as Machine Learning Journal Action Editor, Associate Editor for the ACM Transactions of Knowledge Discovery from Data, JAIR Associate Editor, and on the AAAI Council. She was co-chair for ICML 2011, and has served on the PC of many conferences including the senior PC of AAAI, ICML, KDD, UAI, WSDM and the PC of SIGMOD, VLDB, and WWW. She is a recipient of an NSF Career Award and twelve best paper and best student paper awards. She received her PhD from Stanford University in 2001, her MS from UC Berkeley, and her BS from UC Santa Barbara, and was a professor at the University of Maryland, College Park from 2001-2013."
+  thumbnailUrl: getoor.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site", link: "https://getoor.soe.ucsc.edu/home"}
+-
+  id: 6
+  name: "Xiao"
+  surname: "Ling"
+  title: "Apple"
+  talktitle: "Knowledge Base Construction at Siri"
+  abstract: "TBA"
+  bio: "Xiao Ling is an engineering manager at Apple Siri Knowledge, where he leads the knowledge base construction effort. He received his PhD in Computer Science and Engineering from the University of Washington in 2015. His work focuses on Information Extraction, Natural Language Processing and Machine Learning. He was an early engineer at Lattice Data Inc., which was acquired by Apple in 2017."
+  thumbnailUrl: xiao.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "http://xiaoling.github.io/"}
+-
+  id: 7
+  name: "Alexandra"
+  surname: "Meliou"
+  uniqid: "ameliou"
+  title: "UMass Amherst"
+  talktitle: "Improving Knowledge Quality: Diagnosing Errors and Filling Gaps"
+  abstract: "Knowledge bases, massive collections of facts on diverse topics, support vital modern applications. However, existing knowledge bases contain very little data compared to the wealth of information on the Web. This is because the industry standard in knowledge-base creation and augmentation suffers from a serious bottleneck: existing pipelines rely on domain experts to identify appropriate web sources to extract data from. Efforts to fully automate knowledge extraction have so far failed to improve this standard: these automated systems are able to retrieve much more data and from a broader range of sources, but they suffer from low precision and recall. As a result, these large-scale extractions remain unexploited.<br>This talk will discuss two directions in improving knowledge quality. First, I will examine the issues that have hindered automated knowledge extraction and discuss large-scale diagnostic methods that provide insights into the source of errors in knowledge extraction pipelines, thus facilitating repairs. Second, I will discuss ways to harness the results of automated knowledge extraction pipelines to automate the suggestion of good-quality web sources and to describe what to extract with respect to augmenting an existing knowledge base, thus repairing the bottleneck in industrial knowledge creation and augmentation processes."
+  bio: "Alexandra Meliou is an Assistant Professor in the College of Information and Computer Science, at the University of Massachusetts, Amherst. Prior to that, she was a Post-Doctoral Research Associate at the University of Washington. Alexandra received her PhD degree from the Electrical Engineering and Computer Sciences Department at the University of California, Berkeley. She has received recognitions for research and teaching, including a CACM Research Highlight, an ACM SIGMOD Research Highlight Award, an ACM SIGSOFT Distinguished Paper Award, an NSF CAREER Award, a Google Faculty Research Award, and a Lilly Fellowship for Teaching Excellence. Her research focuses on data provenance, causality, explanations, data quality, and algorithmic fairness."
+  thumbnailUrl: alexandra.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site", link: "https://people.cs.umass.edu/~ameli/"}
+-
+  id: 8
+  name: "Fernando"
+  surname: "Pereira"
+  uniqid: "fpereira"
+  title: "Google"
+  talktitle: "Representation Learning and the Challenge of Reasoning"
+  abstract: "Advances in machine learning (ML) have led to a golden age of increasingly rich models of language with large experimental gains in many language understanding tasks. In the midst of this plenty, we are also getting a better sense of where these new methods fall short. I will walk you through a collection of examples that are obvious for people but pose unsolved simple reasoning challenges to current ML methods. I will conclude with a few suggestions on how ML might be guided to learn useful reasoning patterns."
+  bio: "Fernando Pereira is VP and Engineering Fellow at Google, where he leads research and development in natural language understanding and machine learning. His previous positions include chair of the Computer and Information Science department of the University of Pennsylvania, head of the Machine Learning and Information Retrieval department at AT&T Labs, and research and management positions at SRI International. He received a Ph.D. in Artificial Intelligence from the University of Edinburgh in 1982, and has over 120 research publications on computational linguistics, machine learning, bioinformatics, speech recognition, and logic programming, as well as several patents.  He was elected AAAI Fellow in 1991 for contributions to computational linguistics and logic programming, ACM Fellow in 2010 for contributions to machine learning models of natural language and biological sequences, and ACL Fellow for contributions to sequence modeling, finite-state methods, and dependency and deductive parsing.  He was president of the Association for Computational Linguistics in 1993."
+  thumbnailUrl: fernando.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://ai.google/research/people/author1092"}
+-
+  id: 9
+  name: "Hoifung"
+  surname: "Poon"
+  uniqid: "hpoon"
+  title: "MSR"
+  talktitle: "Machine Reading for Precision Medicine"
+  abstract: "The advent of big data promises to revolutionize medicine by making it more personalized and effective, but big data also presents a grand challenge of information overload. For example, tumor sequencing has become routine in cancer treatment, yet interpreting the genomic data requires painstakingly curating knowledge from a vast biomedical literature, which grows by thousands of papers every day. Electronic medical records contain valuable information for drug development and clinical trial matching, but curating such real-world data from clinical notes can take hours for a single patient. NLP can play a key role in interpreting big data for precision medicine. In particular, machine reading can help unlock knowledge from text by substantially improving curation efficiency. However, standard supervised methods require labeled examples, which are expensive and time-consuming to produce at scale. In this talk, I'll present Project Hanover, where we overcome the annotation bottleneck by combining deep learning with probabilistic logic, and by exploiting indirect supervision from readily available resources such as ontologies and databases. This enables us to extract knowledge from millions of publications, reason efficiently with the resulting knowledge graph by learning neural embeddings of biomedical entities and relations, and apply the extracted knowledge and learned embeddings to supporting precision oncology."
+  bio: "Hoifung Poon is the Director of Precision Health NLP at Microsoft Research. He leads Project Hanover, with the overarching goal of advancing machine reading for precision health, by combining probabilistic logic with deep learning. He has given tutorials on this topic at top AI conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP."
+  thumbnailUrl: hoifung.omni.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://www.microsoft.com/en-us/research/people/hoifung/"}
+-
+  id: 9
+  name: "Chris"
+  surname: "Ré"
+  uniqid: "cre"
+  title: "Stanford, Apple"
+  talktitle: "Snorkel: Beyond hand-labeled data"
+  abstract: "This talk describes Snorkel, a software system whose goal is to make routine machine learning tasks dramatically easier. Snorkel focuses on a key bottleneck in the development of machine learning systems: the lack of large training datasets for a user’s task. In Snorkel, a user implicitly defines large training sets by writing simple programs that create labeled data, instead of tediously hand-labeling individual data items. In turn, this allows users to incorporate many sources of training data, some of low quality, to build high-quality models. This talk will describe how Snorkel changes the way users program machine learning models and construct knowledge bases. A key technical challenge in Snorkel is combining heuristic training data that may have uneven and unknown quality and an unknown correlation structure. This talk will explain the underlying theory, including methods to learn both the parameters and structure of generative models without labeled data. Additionally we’ll describe our recent experiences with hackathons, which suggest the Snorkel approach may allow a broader set of users to train machine learning models and do so more easily than previous approaches.
+<br/><br/>
+
+Snorkel is being used by scientists in areas including genomics and drug repurposing, by a number of companies involved in various forms of search, and by law enforcement in the fight against human trafficking. Snorkel is open source on github. Technical blog posts and tutorials are available at Snorkel.Stanford.edu."
+  bio: "Christopher (Chris) Ré is an associate professor in the Department of Computer Science at Stanford University who is affiliated with the Statistical Machine Learning Group, Pervasive Parallelism Lab, and Stanford AI Lab. His work's goal is to enable users and developers to build applications that more deeply understand and exploit data. His contributions span database theory, database systems, and machine learning, and his work has won best paper at a premier venue in each area, respectively, at PODS 2012, SIGMOD 2014, and ICML 2016. In addition, work from his group has been incorporated into major scientific and humanitarian efforts, including the IceCube neutrino detector, PaleoDeepDive and MEMEX in the fight against human trafficking, and into commercial products from major web and enterprise companies. He cofounded a company, based on his research, that was acquired by Apple in 2017. He received a SIGMOD Dissertation Award in 2010, an NSF CAREER Award in 2011, an Alfred P. Sloan Fellowship in 2013, a Moore Data Driven Investigator Award in 2014, the VLDB early Career Award in 2015, the MacArthur Foundation Fellowship in 2015, and an Okawa Research Grant in 2016."
+  thumbnailUrl: chris.jpg
+  speaker: false
+  social:
+    - {name: "site",   link: "https://cs.stanford.edu/people/chrismre/"}
+-
+  id: 10
+  name: "Sebastian"
+  surname: "Riedel"
+  uniqid: "sriedel"
+  title: "UCL, Facebook"
+  talktitle: "The Deconstruction of Automated Knowledge Base Construction"
+  abstract: "TBA"
+  bio: "Sebastian Riedel is a researcher at Facebook AI research, professor in Natural Language Processing and Machine Learning at the University College London (UCL) and an Allen Distinguished Investigator. He works in the intersection of Natural Language Processing and Machine Learning, and focuses on teaching machines how to read and reason. He was educated in Hamburg-Harburg (Dipl. Ing) and Edinburgh (MSc., PhD), and worked at the University of Massachusetts Amherst and Tokyo University before joining UCL."
+  thumbnailUrl: sebastian_riedel.png
+  speaker: true
+  social:
+    - {name: "site", link: "http://www.riedelcastro.org/"}
+-
+  id: 11
+  name: "Guy"
+  surname: "Van den Broeck"
+  uniqid: "gvandenbroeck"
+  title: "UCLA"
+  talktitle: "Towards Querying Probabilistic Knowledge Bases"
+  abstract: "TBA"
+  bio: "Guy Van den Broeck is an Assistant Professor and Samueli Fellow in the Computer Science Department at the University of California, Los Angeles (UCLA). Guy’s research interests are in artificial intelligence, machine learning, logical and probabilistic automated reasoning, and statistical relational learning. He also studies applications of reasoning in other fields, such as probabilistic databases and programming languages. Guy’s work received best paper awards from key artificial intelligence venues such as UAI, ILP, and KR, and an outstanding paper honorable mention at AAAI. His doctoral thesis was awarded the ECCAI Dissertation Award for the best European dissertation in AI. He directs the Statistical and Relational Artificial Intelligence (StarAI) Lab at UCLA."
+  thumbnailUrl: guy-vdb.jpg
+  speaker: true
+  social:
+    - {name: "site",   link: "http://web.cs.ucla.edu/~guyvdb/"}
+-
+  id: 12
+  name: "Claudia"
+  surname: "Wagner"
+  uniqid: "cwagner"
+  title: "Leibniz Institute for Social Sciences"
+  talktitle: Gathering Knowledge from User Generated Content
+  abstract: "User generated content from platforms like Wikipedia or Twitter is frequently used to extract knowledge about entities and their relationships, topics and their prevalence, as well as about psychological and sociological constructs such as emotions, attitudes, opinions or prejudices.
+When extracting knowledge about theoretical constructs from user generated content two problems need to be considered: 1) the corpus from which we extract knowledge is often biased and 2) the method that is used to extract knowledge may not be valid with regard to the construct.
+In this talk I will connect these error sources with well-known errors  from survey research which has a long history of identifying and analyzing the various errors that occur in the statistical measurement of collective behavior, attitudes and knowledge and reflect on potential solutions."
+  bio: "Claudia Wagner is an assistant professor in Computer Science at University Koblenz-Landau and the interim Scientific Director of the department Computational Social Science at GESIS - Leibniz Institute for the Social Sciences. Wagner received her PhD from Graz University of Technology in 2013, before she joined GESIS as postdoctoral researcher (2013-2016). Prior to that she conducted several international research internships, among others at HP labs, Xerox PARC  and the Open University. To date, she has been awarded substantial research funding either as a PI or co-PI, was awarded with a DOC-fFORTE fellowship from the Austrian Academy of Sciences and received best paper awards (at ESWC 2010, SocialCom 2012, ICWSM 2014 and WebSci 2015). Her research focuses on computational methods and models for analyzing social issues (e.g. gender inequality, sexism) and social phenomena (e.g. collective attention, culture) using digital trace data."
+  thumbnailUrl: claudia_wagner.cropped.jpeg
+  speaker: true
+  social:
+    - {name: "site",   link: "http://www.claudiawagner.info/"}
+-
+  id: 13
+  name: "Chris"
+  surname: "Welty"
+  uniqid: "cwelty"
+  title: "Google"
+  talktitle: "Just when I thought I was out, they pull me back in -- The role of KR in AKBC"
+  abstract: "Automatic construction of knowledge-bases is an exciting synthesis of research in machine learning, knowledge representation, natural language processing, and recently, crowdsourcing.  Due to the ever increasing over-speciation of researchers in AI, most work in the area strongly emphasizes one of these four areas, and as a result, de-emphasizes the others.  Bringing these diverse elements together requires learning a few things from each other, which, when treated as equals, can force us to re-evaluate tacit assumptions that one field makes and another throws away.  My own journey from formal knowledge representation and ontologies thru building Watson and more recent AI systems at Google Research, led me to re-evaluate the long-held tacit assumptions of the knowledge representation field and come to a new understanding of its role in AI. "
+  bio: "Dr. Chris Welty is a Sr. Research Scientist at Google in New York, and an Endowed Professor of Cognitive Computing at the VU University, Amsterdam.  His main area of interest is systems that combine equal parts of machine learning, knowledge bases, and human data, and his recent published work is on using crowdsourcing to form a new theory of truth based on diversity of perspectives.  Before Google, Dr. Welty was a member of the technical leadership team for IBM’s Watson – the question answering computer that defeated the all-time best Jeopardy! champions in a widely televised contest. Since joining Google in 2014, he has worked on incorporating AI in Google products such as Google Docs and Maps.  He got his start 30 years ago working summers at AT&T Bell Labs under Ron Brachman on Knowledge Representation, and became known for OntoClean, the first formal methodology for evaluating ontologies. He is on the editorial board of AI Magazine, the Journal of Applied Ontology, the Journal of Web Semantics, and the Semantic Web Journal.
+Dr. Welty holds a Ph.D. in Computer Science from Rensselaer Polytechnic Institute (RPI)."
+  thumbnailUrl: welty.jpeg
+  speaker: true
+  social:
+    - {name: "site",   link: "https://ai.google/research/people/104789"}
