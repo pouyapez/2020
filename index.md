@@ -5,7 +5,7 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-#### June X-Y 2020
+#### June 22-24 2020
 
 ## Knowledge Base Construction
 
@@ -32,8 +32,8 @@ Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 **February 6, 2020, Thursday: Abstracts due (Midnight PST)**<br />
 February 13, 2020, Thursday: Paper submission deadline (Midnight PST)<br />
 April 20, 2020, Monday: Conference notification<br />
-June X-Y, 2019, Monday-Tuesday: Conference, UC Irvine, CA<br />
-June Z, 2019, Wednesday: Workshops, UC Irvine, CA<br />
+June 22-23, 2020, Monday-Tuesday: Conference, UC Irvine, CA<br />
+June 24, 2020, Wednesday: Workshops, UC Irvine, CA<br />
 
 ## Previous Workshops
 
