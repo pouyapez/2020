@@ -26,13 +26,13 @@ Authors of accepted papers will have the option for their conference paper to be
 Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible, much like ICLR 2020.
 
 
-### Submission Site: http://www.akbc.ws/2020/submission
+### Submission Site: [http://www.akbc.ws/2020/submission](http://www.akbc.ws/2020/submission)
 
 
 ### Submission Requirements
 
 Papers should be submitted in [JAIR format](https://www.jair.org/index.php/jair/formatting) (which is single-column), restricted to 10 pages excluding references (the equivalent of about 8 pages double column).
-LaTeX and Word style files can be downloaded at: http://jair.org/public/resources/JAIRAuthorKit.zip.
+LaTeX and Word style files can be downloaded at: [http://jair.org/public/resources/JAIRAuthorKit.zip](http://jair.org/public/resources/JAIRAuthorKit.zip).
 
 
 ###  Dual Submission Policy
