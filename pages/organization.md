@@ -36,27 +36,24 @@ For any questions, please e-mail [info@akbc.ws](mailto:info@akbc.ws).
 
 ### Area Chairs
 
-Coming soon
+<div class="row">
+<div class="large-2 columns"><br /></div>
+<div class="small-6 large-4 columns">
+Xiang Ren<br/>
+Emily Pitler<br/>
+Kenton Lee<br/>
+Isabelle Augenstein<br/>
+Danqi Chen<br/>
+Minjoon Seo<br/>
+Zornitsa Kozareva<br/>
 
-<!-- <div class="row">
-<div class="large-2 columns"> <br /> </div>
-<div class="small-6 large-4 columns">
-Lora Aroyo <br />
-Kai-Wei Chang <br />
-Luna Dong <br />
-Matt Gardner <br />
-Paul Groth <br />
-Hannaneh Hajishirzi <br />
-Roman Klinger
 </div>
 <div class="small-6 large-4 columns">
-Max Nickel <br />
-Jay Pujara <br />
-Siva Reddy <br />
-Tim Rocktäschel <br />
-Sunita Sarawagi <br />
-Michael Wick <br />
-Luke Zettlemoyer
+Alan Ritter<br/>
+Mark Yatskar<br/>
+Byron Wallace<br/>
+Ivan Titov<br/>
+Vivek Srikumar<br/>
+Guy Van den Broeck<br/>
 </div>
-<div class="large-2 columns"></div>
-</div> -->
+</div>
