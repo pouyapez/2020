@@ -7,6 +7,44 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
+# AKBC 2020
+*2nd Conference on Automated Knowledge Base Construction (AKBC)*
+June 22-24, 2020, Monday-Wednesday, Irvine, CA
+Homepage: http://www.akbc.ws
+Email: info@akbc.ws
+
+
+### Key dates
+*Abstract submission deadline: February 6. 2020*
+Paper submission deadline: February 13, 2020
+Notification of acceptance: April 20, 2020
+Camera-ready papers due: May 10, 2020
+Conference & Workshop Dates: June 22-24, 2020
+
+
+### Knowledge Base Construction
+Knowledge gathering, representation, and reasoning are among the fundamental challenges of artificial intelligence.
+Large-scale repositories of knowledge about entities, relations, and their abstractions are known as “knowledge bases”.
+Most major technology companies now have substantial efforts in knowledge base construction.
+Related scholarly work spans many research areas, including machine learning, natural language processing, computer vision, information integration, databases, search, data mining, knowledge representation, human computation, human-computer interfaces, and fairness.
+The AKBC conference serves as a research forum for all these areas, in both academia and industry.
+
+
+### New Conference
+Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with its widely-acclaimed first instantiation last year in Amherst MA.
+Why a new stand-alone conference?
+Long-standing and growing interest in the area, now with too much material for a one-day workshop.
+We have sufficient material for a two-day conference plus topical workshops.
+We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, HCI.
+We want to set our own culture, including reviewing practices, and meeting format.
+We have fond memories of the first AKBC 2010 in Grenoble: a two-day meeting that included an afternoon hike in the Alps with much great scientific discussion.
+Why now? Growing interest across many areas.
+Disconnect among multiple relevant communities.
+Growing industry and government interest.
+Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
+
+
+### Call for Papers
 We invite the submission of papers describing previously unpublished research, including new methodology, datasets, evaluations, surveys, reproduced results, negative results, and visionary positions.
 
 Topics of interest include, but are not limited to:
