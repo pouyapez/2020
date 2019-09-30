@@ -7,19 +7,19 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-# AKBC 2020
-*2nd Conference on Automated Knowledge Base Construction (AKBC)*
-June 22-24, 2020, Monday-Wednesday, Irvine, CA
-Homepage: http://www.akbc.ws
-Email: info@akbc.ws
+
+**2nd Conference on Automated Knowledge Base Construction (AKBC)**<br>
+June 22-24, 2020, Monday-Wednesday, Irvine, CA<br>
+Homepage: [http://www.akbc.ws](http://akbc.ws)<br>
+Email: [info@akbc.ws](mailto:info@akbc.ws)<br>
 
 
 ### Key dates
-*Abstract submission deadline: February 6. 2020*
-Paper submission deadline: February 13, 2020
-Notification of acceptance: April 20, 2020
-Camera-ready papers due: May 10, 2020
-Conference & Workshop Dates: June 22-24, 2020
+**Abstract submission deadline: February 6. 2020**<br>
+Paper submission deadline: February 13, 2020<br>
+Notification of acceptance: April 20, 2020<br>
+Camera-ready papers due: May 10, 2020<br>
+Conference & Workshop Dates: June 22-24, 2020<br>
 
 
 ### Knowledge Base Construction
