@@ -35,7 +35,9 @@ April 20, 2020, Monday: Conference notification<br />
 June 22-23, 2020, Monday-Tuesday: Conference, UC Irvine, CA<br />
 June 24, 2020, Wednesday: Workshops, UC Irvine, CA<br />
 
-## Previous Workshops
+## Previous Conferences / Workshops
+
+[AKBC 2019](http://akbc.ws/2019) in Amherst
 
 [AKBC 2017](http://akbc.ws/2017) at NIPS 2017, Long Beach
 
