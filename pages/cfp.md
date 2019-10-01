@@ -33,15 +33,10 @@ The AKBC conference serves as a research forum for all these areas, in both acad
 ### New Conference
 Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has become a conference, with its widely-acclaimed first instantiation last year in Amherst MA.
 Why a new stand-alone conference?
-Long-standing and growing interest in the area, now with too much material for a one-day workshop.
-We have sufficient material for a two-day conference plus topical workshops.
-We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, HCI.
-We want to set our own culture, including reviewing practices, and meeting format.
-We have fond memories of the first AKBC 2010 in Grenoble: a two-day meeting that included an afternoon hike in the Alps with much great scientific discussion.
-Why now? Growing interest across many areas.
-Disconnect among multiple relevant communities.
-Growing industry and government interest.
-Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
+- Long-standing and growing interest in the area, now with too much material for a one-day workshop. We have sufficient material for a two-day conference plus topical workshops.
+- We want to grow and connect the community beyond existing individual conference communities, bringing together ML, NLP, DB, IR, KRR, semantics, reasoning, common sense, QA, human computation, dialog, HCI.
+- We want to set our own culture, including reviewing practices, and meeting format. We have fond memories of the first AKBC 2010 in Grenoble: a two-day meeting that included an afternoon hike in the Alps with much great scientific discussion.
+- Why now? Growing interest across many areas. Disconnect among multiple relevant communities. Growing industry and government interest. Many of the long-existing conferences have grown uncomfortably large; a new, smaller conference can be more intimate, hospitable, and supportive.
 
 
 ### Call for Papers
