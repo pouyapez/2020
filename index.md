@@ -37,16 +37,11 @@ June 24, 2020, Wednesday: Workshops, UC Irvine, CA<br />
 
 ## Previous Conferences / Workshops
 
-[AKBC 2019](http://akbc.ws/2019) in Amherst
-
-[AKBC 2017](http://akbc.ws/2017) at NIPS 2017, Long Beach
-
-[AKBC 2016](http://akbc.ws/2016) at NAACL 2016, San Diego
-
-[AKBC 2014](http://akbc.ws/2014) at NIPS 2014, Montreal
-
-[AKBC 2013](http://akbc.ws/2013) at CIKM 2013, San Francisco
-
-[AKBC-WEKEX 2012](http://akbcwekex2012.wordpress.com/) at NAACL 2012, Montreal
-
-[AKBC 2010](http://videolectures.net/akbc2010_grenoble/) in Grenoble
+<br />
+[AKBC 2019](http://akbc.ws/2019) in Amherst <br />
+[AKBC 2017](http://akbc.ws/2017) at NIPS 2017, Long Beach <br />
+[AKBC 2016](http://akbc.ws/2016) at NAACL 2016, San Diego <br />
+[AKBC 2014](http://akbc.ws/2014) at NIPS 2014, Montreal <br />
+[AKBC 2013](http://akbc.ws/2013) at CIKM 2013, San Francisco <br />
+[AKBC-WEKEX 2012](http://akbcwekex2012.wordpress.com/) at NAACL 2012, Montreal <br />
+[AKBC 2010](http://videolectures.net/akbc2010_grenoble/) in Grenoble <br />

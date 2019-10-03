@@ -1,0 +1,36 @@
+- name: Andrew McCallum
+  url: https://people.cs.umass.edu/~mccallum/
+  location: University of Massachusetts Amherst
+  position: General Co-Chair
+- name: Alon Halevy
+  url: https://homes.cs.washington.edu/~alon/
+  location: Facebook AI
+  position: General Co-Chair
+- name: Hanneneh Hajishirzi
+  url: https://homes.cs.washington.edu/~hannaneh/
+  location: University of Washington / Allen Institute for AI
+  position: Program Co-Chair
+- name: Dipanjan Das
+  url: http://www.dipanjandas.com/
+  location: Google
+  position: Program Co-Chair
+- name: Amanda Stent
+  url: https://www.linkedin.com/in/amandastent/
+  location: Bloomberg
+  position: Workshop Co-Chair
+- name: Zachary Ives
+  url: http://www.cis.upenn.edu/~zives/
+  location: University of Pennsylvania
+  position: Workshop Co-Chair
+- name: Christopher Ré
+  url: https://cs.stanford.edu/people/chrismre/
+  location: Stanford University
+  position: Funding Chair
+- name: Sameer Singh
+  url: http://sameersingh.org/
+  location: University of California Irvine
+  position: Local Co-Chair
+- name: Matt Gardner
+  url: https://matt-gardner.github.io
+  location: Allen Institute for AI
+  position: Local Co-Chair
