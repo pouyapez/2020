@@ -22,7 +22,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
-Nov 2019 : [Call for Workshops]({{ site.baseurl }}/cfw) released <br />
+Nov 2019 : [Call for Workshop Proposals]({{ site.baseurl }}/cfw) released <br />
 Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 
 <a name="dates"></a>
@@ -30,6 +30,7 @@ Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 ## Key Dates
 
 <br />
+**December 18, 2020, Wednesday: Workshop proposals due (Midnight PST)**<br />
 **February 6, 2020, Thursday: Abstracts due (Midnight PST)**<br />
 February 13, 2020, Thursday: Paper submission deadline (Midnight PST)<br />
 April 20, 2020, Monday: Conference notification<br />
