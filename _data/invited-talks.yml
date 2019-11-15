@@ -1,0 +1,52 @@
+- speaker:
+    name: Jonathan Berant
+    location: Tel Aviv University / Allen Institute for AI
+    url: http://www.cs.tau.ac.il/~joberant/
+- speaker:
+    name: William Cohen
+    location: Google AI
+    url: http://www.cs.cmu.edu/~wcohen/
+- speaker:
+    name: Xin Luna Dong
+    location: Amazon
+    url: http://lunadong.com/
+- speaker:
+    name: Heng Ji
+    location: University of Illinois Urbana-Champaign
+    url: http://blender.cs.illinois.edu/hengji.html
+- speaker:
+    name: Jure Leskovec
+    location: Stanford
+    url: https://cs.stanford.edu/people/jure/
+- speaker:
+    name: Ndapandula Nakashole
+    location: University of California San Diego
+    url: http://nakashole.com/
+- speaker:
+    name: Theodoros Rekatsinas
+    location: University of Wisconsin-Madison
+    url: http://pages.cs.wisc.edu/~thodrek/
+- speaker:
+    name: Andrew Su
+    location: Scripps Institute
+    url: https://www.scripps.edu/faculty/su/
+- speaker:
+    name: Emma Strubell
+    location: Facebook / CMU
+    url: https://people.cs.umass.edu/~strubell/
+- speaker:
+    name: Jamie Taylor
+    location: Google
+    url: https://www.linkedin.com/in/jamie-taylor-853953/
+- speaker:
+    name: Benjamin Van Durme
+    location: John Hopkins University
+    url: https://www.cs.jhu.edu/~vandurme/
+- speaker:
+    name: Diyi Yang
+    location: Georgia Institute of Technology
+    url: https://www.cc.gatech.edu/~dyang888/experience.html
+- speaker:
+    name: Luke Zettlemoyer
+    location: University of Washington / Facebook
+    url: https://www.cs.washington.edu/people/faculty/lsz
