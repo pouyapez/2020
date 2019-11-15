@@ -6,6 +6,9 @@
   url: "/cfp/"
   side: left
 
+- title: Call for workshops
+  url: "/cfw/"
+  side: left
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left

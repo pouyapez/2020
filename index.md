@@ -22,6 +22,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, last year AK
 
 ## Latest news
 
+Nov 2019 : [Call for Workshops]({{ site.baseurl }}/cfw) released <br />
 Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 
 <a name="dates"></a>
