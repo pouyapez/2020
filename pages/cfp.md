@@ -49,7 +49,7 @@ Topics of interest include, but are not limited to:
 
 Authors of accepted papers will have the option for their conference paper to be archival (with full text in AKBC Proceedings, and be considered for best paper awards) or non-archival (listed in AKBC Conference schedule, with full text in OpenReview, and the flexibility to also submit elsewhere).  Double-blind reviewing will be performed on the OpenReview platform, with papers, reviews and comments publicly visible, much like ICLR 2020.
 
-Papers should be restricted to 10 pages excluding references (the equivalent of about 8 pages double column).
+Papers should be restricted to **10 pages** excluding references (the equivalent of about 6 pages double column).
 Appendices can be included beyond the references in the same PDF file, but may be ignored by the reviewers.
 
 We will follow a double-blind review process, and thus the submissions should not have any identifiable information about the authors.
