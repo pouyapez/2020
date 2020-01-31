@@ -33,8 +33,8 @@ Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 
 <br />
 ~~December 18, 2020, Wednesday: Workshop proposals due (Midnight PST)~~<br />
-**February 6, 2020, Thursday: Abstracts due (Midnight PST)**<br />
-February 13, 2020, Thursday: Paper submission deadline (Midnight PST)<br />
+**February 6, 2020, Thursday: Abstracts due (11:59pm PST)**<br />
+February 13, 2020, Thursday: Paper submission deadline (11:59pm PST)<br />
 April 20, 2020, Monday: Conference notification<br />
 June 22-23, 2020, Monday-Tuesday: Conference, UC Irvine, CA<br />
 June 24, 2020, Wednesday: Workshops, UC Irvine, CA<br />
