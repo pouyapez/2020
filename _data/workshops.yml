@@ -1,0 +1,24 @@
+- name: Bias in Automatic Knowledge Graph Construction
+  url: https://kg-bias.github.io/
+  acronym: KG-BIAS
+  organizers: Edgar Meij, Tara Safavi, Chenyan Xiong, Miriam Redi, Gianluca Demartini, Fatma Özcan
+
+- name: Knowledge Bases and Multiple Modalities
+  url: https://kb-mm.github.io
+  acronym: KBMM
+  organizers: Pouya Pezeshkpour, Anand Mishra, Partha Talukdar, Sameer Singh
+
+- name: Federated Knowledge Bases across Open Knowledge Networks
+  url: 
+  acronym: OKNow what?
+  organizers: 
+
+- name: Structured and Unstructured KBs
+  url: 
+  acronym: StUn KB
+  organizers: 
+
+- name: Scientific Knowledge Bases
+  url: 
+  acronym: SciNLP
+  organizers: 
