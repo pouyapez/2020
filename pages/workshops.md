@@ -7,13 +7,23 @@ header:
 ---
 
 <ul>
-{% for organizer in site.data.workshops %}
+{% for workshop in site.data.workshops %}
     <li>
-    <b>{{ organizer.acronym}}: {{ organizer.name }}</b>
+    <b>
+        {{- workshop.name -}}
+        {% if workshop.acronym %}
+            ({{- workshop.acronym -}})
+        {%- endif -%}
+    </b>, <i>{{- workshop.duration -}}</i>
+    {%- if workshop.url -%}
+    , <a href="{{ workshop.url }}">Website</a>
+    {%- endif -%}
+    {%- if workshop.organizers -%}
     <br>
-    {{ organizer.organizers }}
-    <br>
-    <a href="{{ organizer.url }}">Website</a>
+    <i>
+        {{- workshop.organizers -}}
+    </i>
+    {%- endif -%}
     </li>
 {% endfor %}
 </ul>
