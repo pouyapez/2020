@@ -19,5 +19,7 @@
   organizers: Danqi Chen, Siva Reddy, Pat Verga
   duration: Half-day
 
-- name: Scientific Knowledge Bases
+- name: Natural Language Processing and Data Mining for Scientific Text
+  acronym: SciNLP
+  organizers: Iz Beltagy, Arman Cohan, Keith Hall, Kyle Lo, Yi Luan, Lucy Lu Wang
   duration: Half-day
