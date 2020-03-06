@@ -55,25 +55,3 @@ Irvine, CA 92697 <br>
   <img style="display:inline" src="{{ site.baseurl }}/assets/img/venue/tile_9.jpg">
 </figure3>
 </div>
-
-
-### Travel
-
-[Irvine](https://goo.gl/maps/auKoDNKL7Gh6p28X9) is a city in Southern California roughly located between Los Angeles (~50 miles; 1 hour drive) and San Diego (85 miles; 1.5 hour drive).
-
-
-#### Nearby Airports
-
-- John Wayne Airport (SNA) \[[map](https://goo.gl/maps/DqdBKKiqPLtu7eap9)\]. Distance to UCI: 3 miles (~5 mins)
-- Long Beach Airport (LGB) \[[map](https://goo.gl/maps/fqnBiKkA2P1g4SWS8)\]. Distance to UCI: 23 miles (~30 mins)
-- Los Angeles Intl. Airport (LAX) \[[map](https://goo.gl/maps/1Mvhzs9nDPEWe2p9A)\]. Distance to UCI: 42 miles (>60 mins).
-
-Flights to LAX are typically cheapest, however please be aware that ground transportation fares (e.g. Uber, Lyft) typically cost $50-60 each way.
-
-
-#### Nearby Cities
-
-- Los Angeles (50 miles; 1 hour drive)
-- San Diego (85 miles; 1.5 hour drive)
-- Newport Beach (8 miles; 15 min drive)
-- Anaheim (17 miles; 20 min drive)
