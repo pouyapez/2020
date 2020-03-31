@@ -5,7 +5,11 @@ header:
   image_fullwidth: "irvine-header.jpg"
 ---
 
-#### June 22-24 2020
+<div style='border-radius: 25px; padding: 20px; background: #CD5C5C; color: #FFFFFF;'>
+<b>COVID-19 UPDATE:</b> Due to the COVID-19 pandemic, AKBC 2020 is moving to a fully virtual conference including invited and contributed talks, poster sessions, workshops and hallway discussions. AKBC 2020 dates (originally June 22-24) will remain approximately the same.  Stay tuned for more details during the upcoming weeks!
+</div>
+
+<!-- #### June 22-24 2020 -->
 
 ## Knowledge Base Construction
 
@@ -22,17 +26,12 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
-<div style='border-radius: 25px; padding: 20px; background: #CD5C5C;'>
-Mar 2020 : We’re keeping a close eye on the situation with the coronavirus, but as of now, the plans for the conference are unchanged.
-</div>
-
-<div style='border-radius: 25px; padding: 20px;' markdown='1'>
+Mar 2020 : Due to COVID-19, AKBC 2020 is moving to a fully virtual conference.<br/>
 Feb 2020 : Abstract deadline extended<br />
 Jan 2020 : [Submission Site]({{ site.baseurl }}/submission) is live<br />
 Jan 2020 : [LaTeX Style Files](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) updated<br />
 Nov 2019 : [Call for Workshop Proposals]({{ site.baseurl }}/cfw) released <br />
 Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
-</div>
 
 <a name="dates"></a>
 
@@ -43,8 +42,11 @@ Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 ~~February 13, 2020, Thursday: Abstracts due (11:59pm PST)~~<br />
 ~~February 13, 2020, Thursday: Paper submission deadline (11:59pm PST)~~<br />
 April 20, 2020, Monday: Conference notification<br />
-June 22-23, 2020, Monday-Tuesday: Conference, UC Irvine, CA<br />
-June 24, 2020, Wednesday: Workshops, UC Irvine, CA<br />
+TBD: Virtual conference and workshops<br />
+<!--
+June 22-23, 2020, Monday-Tuesday: Conference<br />
+June 24, 2020, Wednesday: Workshops<br />
+-->
 
 ## Previous Conferences / Workshops
 
