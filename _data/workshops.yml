@@ -1,8 +1,3 @@
-- name: Open Knowledge Network
-  acronym: OKN
-  organizers: Chaitan Baru, Mike Cafarella, Sam Klein
-  duration: Full-day
-
 - name: Bias in Automatic Knowledge Graph Construction
   url: https://kg-bias.github.io/
   acronym: KG-BIAS
