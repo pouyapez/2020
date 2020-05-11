@@ -26,8 +26,9 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+May 2020 : List of [accepted papers]({{ site.baseurl }}/papers/) available now.<br/>
 Mar 2020 : Due to COVID-19, AKBC 2020 is moving to a fully virtual conference.<br/>
-Feb 2020 : Abstract deadline extended<br />
+Feb 2020 : Abstract deadline extended.<br />
 Jan 2020 : [Submission Site]({{ site.baseurl }}/submission) is live<br />
 Jan 2020 : [LaTeX Style Files](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) updated<br />
 Nov 2019 : [Call for Workshop Proposals]({{ site.baseurl }}/cfw) released <br />

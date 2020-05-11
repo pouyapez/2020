@@ -6,11 +6,14 @@
   url: "/cfp/"
   side: left
   dropdown:
-  - title: Call for papers
-    url: "/cfp/"
+  - title: Accepted Papers
+    url: "/papers/"
     side: left
   - title: Workshops
     url: "/workshops/"
+    side: left
+  - title: Call for papers
+    url: "/cfp/"
     side: left
 # - title: "Program"
 #   url: "/schedule/"
