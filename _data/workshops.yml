@@ -16,5 +16,6 @@
 
 - name: Natural Language Processing and Data Mining for Scientific Text
   acronym: SciNLP
-  organizers: Iz Beltagy, Arman Cohan, Keith Hall, Kyle Lo, Yi Luan, Lucy Lu Wang
+  organizers: Kyle Lo, Iz Beltagy, Arman Cohan, Keith Hall, Yi Luan, Lucy Lu Wang
   duration: Half-day
+  url: https://scinlp-workshop.github.io/
