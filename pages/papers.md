@@ -13,7 +13,7 @@ All papers, with their reviews and other details, are also available on [OpenRev
 
 <ul>
 {% for paper in site.data.accepted %}
-    {% if paper['archival_status'] == "Archival" %}
+    {% if paper['archival_status'] != "" %}
         {% include paper.html p=paper %}
     {% endif %}
 {% endfor %}
