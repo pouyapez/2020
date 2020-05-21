@@ -6,6 +6,8 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
+Workshops will take place on **June 25, 2020** from 8am-1pm, PT.
+
 <ul>
 {% for workshop in site.data.workshops %}
     <li>

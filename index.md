@@ -26,6 +26,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+May 2020 : List of [workshops]({{ site.baseurl }}/workshops/), with their websites, available now.<br/>
 May 2020 : List of [invited talks]({{ site.baseurl }}/speakers/) available now.<br/>
 May 2020 : List of [accepted papers]({{ site.baseurl }}/papers/) available now.<br/>
 Mar 2020 : Due to COVID-19, AKBC 2020 is moving to a fully virtual conference.<br/>
@@ -40,15 +41,12 @@ Sep 2019 : [Call for Papers]({{ site.baseurl }}/cfp) released <br />
 ## Key Dates
 
 <br />
-~~December 18, 2020, Wednesday: Workshop proposals due (Midnight PST)~~<br />
-~~February 13, 2020, Thursday: Abstracts due (11:59pm PST)~~<br />
+June 22-24, 2020: Main Conference<br>
+June 25, 2020: Conference [Workshops]({{ site.baseurl }}/workshops/)<br>
+~~Notification of acceptance: April 20, 2020~~<br>
 ~~February 13, 2020, Thursday: Paper submission deadline (11:59pm PST)~~<br />
-April 20, 2020, Monday: Conference notification<br />
-TBD: Virtual conference and workshops<br />
-<!--
-June 22-23, 2020, Monday-Tuesday: Conference<br />
-June 24, 2020, Wednesday: Workshops<br />
--->
+~~February 13, 2020, Thursday: Abstracts due (11:59pm PST)~~<br />
+~~December 18, 2020, Wednesday: Workshop proposals due (Midnight PST)~~<br />
 
 ## Previous Conferences / Workshops
 
