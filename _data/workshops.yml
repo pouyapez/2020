@@ -13,6 +13,7 @@
 - name: Structured and Unstructured KBs
   organizers: Danqi Chen, Siva Reddy, Pat Verga
   duration: Half-day
+  url: https://uskb-workshop.github.io/
 
 - name: Natural Language Processing and Data Mining for Scientific Text
   acronym: SciNLP
