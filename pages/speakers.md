@@ -1,31 +1,30 @@
 ---
-title: Speakers
+title: Invited Speakers
 layout: page-fullwidth
 permalink: /speakers/
 header:
-  image_fullwidth: "amherst_sky.jpg"
+  image_fullwidth: "generic-gradient.png"
 ---
 
-{% for speaker in site.data.speakers %}
+{% for speaker in site.data.invited-talks %}
 
-<div id="{{ speaker.uniqid }}Summary"></div>
-<div class="row"><br/></div>
+<div id="{{ speaker.id }}Summary"></div>
 <div class="row">
-	<div class="large-1 columns"> <br /> </div>
-	<div class="small-4 large-3 columns">
-	  <img src="{{ site.baseurl }}/assets/img/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
+	<div class="large-1 columns"></div>
+	<div class="small-8 medium-3 columns">
+	  <img src="{{ site.baseurl }}/assets/img/people/{{ speaker.thumbnail}}"  alt="{{ speaker.name }}" style="width: 300px" />
 	</div>
 
-<div class="small-8 large-7 columns" markdown="1">
+<div class="small-12 medium-9 large-7 columns" markdown="1">
 
-### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
+### [{{ speaker.name }}]({{ speaker.url }})
 
-#### {{ speaker.title }}
+#### {{ speaker.location }}
 
 <br />
-_{{ speaker.talktitle }}_ <br />
+_{{ speaker.title }}_ <br />
 
-<a href="#{{ speaker.uniqid }}Detail"> Abstract and Bio</a>
+<a href="#{{ speaker.id }}Detail"> Abstract and Bio</a>
 
 </div>
 
@@ -38,39 +37,36 @@ _{{ speaker.talktitle }}_ <br />
 <br />
 <br />
 <h1> Speaker abstracts and bios </h1>
+<hr/>
+{% for speaker in site.data.invited-talks %}
 
-{% for speaker in site.data.speakers %}
-
-<div id="{{ speaker.uniqid }}Detail"></div>
+<div id="{{ speaker.id }}Detail"></div>
 <div class="row">
-</div>
-<div class="row">
-<div class="large-1 columns"> <br />
-</div>
-<div class="small-4 large-3 columns">
-<img src="{{ site.baseurl }}/assets/img/people/{{ speaker.thumbnailUrl}}"  alt="{{ speaker.name }} {{ speaker.surname }}" style="width: 300px" />
-</div>
-<div class="small-8 large-7 columns" markdown="1">
+	<div class="large-1 columns"></div>
+	<div class="small-8 medium-3 columns">
+	  <img src="{{ site.baseurl }}/assets/img/people/{{ speaker.thumbnail}}"  alt="{{ speaker.name }}" style="width: 300px" />
+	</div>
 
-### [{{ speaker.name }} {{ speaker.surname }}]({{ speaker.social[0].link }})
+<div class="small-12 medium-9 large-7 columns" markdown="1">
 
-#### {{ speaker.title }}
+### [{{ speaker.name }}]({{ speaker.url }})
+
+#### {{ speaker.location }}
 
 </div>
 </div>
 <div class="row">
 <div class="large-1 columns"></div>
-<div class="large-8 columns" markdown="1">
-<h6> Abstract </h6>
-<i>{{ speaker.talktitle }}</i>
-<br /> <br />
+<div class="large-10 medium-12 columns" markdown="1">
+<h4>{{ speaker.title }}</h4>
 {{ speaker.abstract }}
-<br /> <br /> <br />
+<br /> <br />
 <h6> Bio </h6>
 {{ speaker.bio }}
 
-<a href="#{{ speaker.uniqid }}Summary">Back</a>
+<a href="#{{ speaker.id }}Summary">Back</a>
 
+<hr />
 </div>
 <div class="large-1 columns"></div>
 </div>

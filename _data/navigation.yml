@@ -6,15 +6,18 @@
   url: "/cfp/"
   side: left
   dropdown:
-  - title: Accepted Papers
-    url: "/papers/"
-    side: left
-  - title: Workshops
-    url: "/workshops/"
-    side: left
-  - title: Call for papers
-    url: "/cfp/"
-    side: left
+    - title: Invited Speakers
+      url: "/speakers/"
+      side: left
+    - title: Accepted Papers
+      url: "/papers/"
+      side: left
+    - title: Workshops
+      url: "/workshops/"
+      side: left
+    - title: Call for papers
+      url: "/cfp/"
+      side: left
 # - title: "Program"
 #   url: "/schedule/"
 #   side: left
@@ -38,9 +41,9 @@
   url: "/venue"
   side: left
   dropdown:
-  - title: "Venue"
-    url: "/venue/"
-    side: left
+    - title: "Venue"
+      url: "/venue/"
+      side: left
   # dropdown:
   #   - title: "Venue"
   #     url: "/venue/"

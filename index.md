@@ -26,6 +26,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+May 2020 : List of [invited talks]({{ site.baseurl }}/speakers/) available now.<br/>
 May 2020 : List of [accepted papers]({{ site.baseurl }}/papers/) available now.<br/>
 Mar 2020 : Due to COVID-19, AKBC 2020 is moving to a fully virtual conference.<br/>
 Feb 2020 : Abstract deadline extended.<br />
