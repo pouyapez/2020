@@ -3,7 +3,7 @@
   side: left
 
 - title: Program
-  url: "/cfp/"
+  url: "/schedule/"
   side: left
   dropdown:
     - title: Invited Speakers
@@ -15,12 +15,12 @@
     - title: Workshops
       url: "/workshops/"
       side: left
+    - title: "Schedule"
+      url: "/schedule/"
+      side: left
     - title: Call for papers
       url: "/cfp/"
       side: left
-# - title: "Program"
-#   url: "/schedule/"
-#   side: left
 #   dropdown:
 #   - title: "Schedule"
 #     url: "/schedule/"

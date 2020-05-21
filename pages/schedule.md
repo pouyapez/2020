@@ -3,59 +3,75 @@ title: Schedule
 layout: page-fullwidth
 permalink: /schedule/
 header:
-    image_fullwidth: "amherst_sky.jpg"
+  image_fullwidth: "generic-gradient.png"
 ---
 
 {% assign url = site.baseurl | prepend: site.url %}
 
-### May 20, Day 1
+More details coming soon.
 
-|----------	|----------	|---------------------------------	|--------------------	|
-|        	|          	| *Buses from hotels*                 	| [Shuttle Information]({{ url }}/travel#shuttle)                   	|
-| 8:15  	| 9:00     	| *Breakfast*                       	| *Location:* [Old Chapel]({{ url }}/venue)                   	|
-| 9:00     	| 9:15     	| Opening Remarks                 	|                    	|
-| 9:15     	| 9:50     	| Invited Talk                  	| [Yejin Choi]({{ url }}/speakers/#yejin-choi): *{{ site.data.speakers[2].talktitle }}*         	|
-| 9:50     	| 10:25    	| Invited Talk                  	| [Guy van den Broeck]({{ url }}/speakers/#guy-van-den-broeck): *{{ site.data.speakers[11].talktitle }}* 	|
-| 10:25    	| 11:00    	| Spotlights Session 1 	            | <a href="" data-reveal-id="Spotlight1Modal">Spotlight Papers</a>                   	|
-| 11:00    	| 11:20    	| *Break*                           	|                    	|
-| 11:20    	| 11:55    	| Invited Talk                  	| [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): *{{ site.data.speakers[0].talktitle }}*       	|
-| 11:55    	| 12:30    	| Invited Talk                  	| ~~Danqi Chen~~ [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): *{{ site.data.speakers[8].talktitle }}*         	|
-| 12:30    	| 2:00     	| *Lunch*                           	| *Location:* The Blue Wall, 1st floor of the Campus Center                   	|
-| 2:00     	| 2:35     	| Invited Talk                  	| [Xiao Ling]({{ url }}/speakers/#xiao-ling): *{{ site.data.speakers[5].talktitle }}*    	|
-| 2:35     	| 3:10     	| Invited Talk                  	| [Alexandra Meliou]({{ url }}/speakers/#alexandra-meliou): *{{ site.data.speakers[6].talktitle }}*  	|
-| 3:10     	| 3:45     	| Spotlights Session 2 	            | <a href="" data-reveal-id="Spotlight2Modal">Spotlight Papers</a>                   	|
-| 3:45     	| 4:00     	| *Break*                           	|                    	|
-| 4:00     	| 4:35     	| Invited Talk 7                  	| [Chris Welty]({{ url }}/speakers/#chris-welty): *{{ site.data.speakers[13].talktitle }}*        	|
-| 4:35     	| 5:10     	| Invited Talk 8                  	| [Laura Dietz]({{ url }}/speakers/#laura-dietz): *{{ site.data.speakers[3].talktitle }}*        	|
-| 5:10     	| 5:45     	| Spotlights Session 3           	| <a href="" data-reveal-id="Spotlight3Modal">Spotlight Papers</a>                   	|
-| 6:00     	| 8:30     	| *Posters*                         	| *with light dinner finger food*, Marriott Center, 11th floor Campus Center             	|
-| 8:30     	|          	| *Buses to hotels*                 	| [Shuttle Information]({{ url }}/travel#shuttle)                   	|
+### June 22, Day 1, 8am-1:30pm PT
 
-### May 21, Day 2
+[Time in other timezones](https://time.is/compare/0800AM_22_June_2020_in_PT)
 
-|----------	|----------	|--------------------	|------------------	|
-|        	|          	| *Buses from hotels*                 	| [Shuttle Information]({{ url }}/travel#shuttle)                   	|
-| 8:15     	| 8:30     	| *Breakfast*          	|  *Location:* [Old Chapel]({{ url }}/venue)                	|
-| 8:30     	| 9:05     	| Invited Talk      	| [Sebastian Riedel]({{ url }}/speakers/#sebastian-riedel): *{{ site.data.speakers[10].talktitle }}* 	|
-| 9:05     	| 9:40     	| Invited Talk      	| [Claudia Wagner]({{ url }}/speakers/#claudia-wagner): *{{ site.data.speakers[12].talktitle }}*   	|
-| 9:40     	| 10:15    	| Invited Talk       	| [Lise Getoor]({{ url }}/speakers/#lise-getoor): *{{ site.data.speakers[4].talktitle }}*      	|
-| 10:15    	| 10:30    	| *Break*              	|                  	|
-| 10:30    	| 11:15    	| Best Paper Session 	| [Best Paper Awards]({{ url }}/awards)                 	|
-| 11:15    	| 11:50    	| Invited Talk      	| ~~Hoifung Poon~~ [Danqi Chen]({{ url }}/speakers/#danqi-chen): *{{ site.data.speakers[1].talktitle }}*     	|
-| 11:50    	| 12:00    	| Closing remarks    	|                  	|
-| 12:00    	| 1:00     	| *Lunch*              	|                  	|
-| 1:00     	| 2:00     	| *Travel to Hike*     	| [Hiking Info]({{ url }}/hike)                 	|
-| 2:00     	| 4:00     	| *Hike*               	|                  	|
-| 4:00     	| 5:00     	| *Travel to Dinner*   	|                  	|
-| 5:00     	| 8:30     	| *Drinks and Dinner*   | *Location:* Quonquot Farm, 9 North St, Whatley, MA                 	|
-| 7:00     	| 7:45     	| Invited Talk       	| [Fernando Pereira]({{ url }}/speakers/#fernando-pereira): *{{ site.data.speakers[7].talktitle }}* 	|
-| 8:30     	|          	| *Buses to hotels*    	|  [Shuttle Information]({{ url }}/travel#shuttle)                	|
+### June 23, Day 2, 12pm-5:30pm PT
 
-### May 22, Day 3
+[Time in other timezones](https://time.is/compare/1200PM_23_June_2020_in_PT)
+
+<!--
+|---------- |---------- |--------------------------------- |-------------------- |
+| | | _Buses from hotels_ | [Shuttle Information]({{ url }}/travel#shuttle) |
+| 8:15 | 9:00 | _Breakfast_ | _Location:_ [Old Chapel]({{ url }}/venue) |
+| 9:00 | 9:15 | Opening Remarks | |
+| 9:15 | 9:50 | Invited Talk | [Yejin Choi]({{ url }}/speakers/#yejin-choi): _{{ site.data.speakers[2].talktitle }}_ |
+| 9:50 | 10:25 | Invited Talk | [Guy van den Broeck]({{ url }}/speakers/#guy-van-den-broeck): _{{ site.data.speakers[11].talktitle }}_ |
+| 10:25 | 11:00 | Spotlights Session 1 | <a href="" data-reveal-id="Spotlight1Modal">Spotlight Papers</a> |
+| 11:00 | 11:20 | _Break_ | |
+| 11:20 | 11:55 | Invited Talk | [Waleed Ammar]({{ url }}/speakers/#waleed-ammar): _{{ site.data.speakers[0].talktitle }}_ |
+| 11:55 | 12:30 | Invited Talk | ~~Danqi Chen~~ [Hoifung Poon]({{ url }}/speakers/#hoifung-poon): _{{ site.data.speakers[8].talktitle }}_ |
+| 12:30 | 2:00 | _Lunch_ | _Location:_ The Blue Wall, 1st floor of the Campus Center |
+| 2:00 | 2:35 | Invited Talk | [Xiao Ling]({{ url }}/speakers/#xiao-ling): _{{ site.data.speakers[5].talktitle }}_ |
+| 2:35 | 3:10 | Invited Talk | [Alexandra Meliou]({{ url }}/speakers/#alexandra-meliou): _{{ site.data.speakers[6].talktitle }}_ |
+| 3:10 | 3:45 | Spotlights Session 2 | <a href="" data-reveal-id="Spotlight2Modal">Spotlight Papers</a> |
+| 3:45 | 4:00 | _Break_ | |
+| 4:00 | 4:35 | Invited Talk 7 | [Chris Welty]({{ url }}/speakers/#chris-welty): _{{ site.data.speakers[13].talktitle }}_ |
+| 4:35 | 5:10 | Invited Talk 8 | [Laura Dietz]({{ url }}/speakers/#laura-dietz): _{{ site.data.speakers[3].talktitle }}_ |
+| 5:10 | 5:45 | Spotlights Session 3 | <a href="" data-reveal-id="Spotlight3Modal">Spotlight Papers</a> |
+| 6:00 | 8:30 | _Posters_ | _with light dinner finger food_, Marriott Center, 11th floor Campus Center |
+| 8:30 | | _Buses to hotels_ | [Shuttle Information]({{ url }}/travel#shuttle) |
+-->
+
+### June 24, Day 3, 8am-1:30pm PT
+
+[Time in other timezones](https://time.is/compare/0800AM_24_June_2020_in_PT)
+
+<!--
+|---------- |---------- |-------------------- |------------------ |
+| | | _Buses from hotels_ | [Shuttle Information]({{ url }}/travel#shuttle) |
+| 8:15 | 8:30 | _Breakfast_ | _Location:_ [Old Chapel]({{ url }}/venue) |
+| 8:30 | 9:05 | Invited Talk | [Sebastian Riedel]({{ url }}/speakers/#sebastian-riedel): _{{ site.data.speakers[10].talktitle }}_ |
+| 9:05 | 9:40 | Invited Talk | [Claudia Wagner]({{ url }}/speakers/#claudia-wagner): _{{ site.data.speakers[12].talktitle }}_ |
+| 9:40 | 10:15 | Invited Talk | [Lise Getoor]({{ url }}/speakers/#lise-getoor): _{{ site.data.speakers[4].talktitle }}_ |
+| 10:15 | 10:30 | _Break_ | |
+| 10:30 | 11:15 | Best Paper Session | [Best Paper Awards]({{ url }}/awards) |
+| 11:15 | 11:50 | Invited Talk | ~~Hoifung Poon~~ [Danqi Chen]({{ url }}/speakers/#danqi-chen): _{{ site.data.speakers[1].talktitle }}_ |
+| 11:50 | 12:00 | Closing remarks | |
+| 12:00 | 1:00 | _Lunch_ | |
+| 1:00 | 2:00 | _Travel to Hike_ | [Hiking Info]({{ url }}/hike) |
+| 2:00 | 4:00 | _Hike_ | |
+| 4:00 | 5:00 | _Travel to Dinner_ | |
+| 5:00 | 8:30 | _Drinks and Dinner_ | _Location:_ Quonquot Farm, 9 North St, Whatley, MA |
+| 7:00 | 7:45 | Invited Talk | [Fernando Pereira]({{ url }}/speakers/#fernando-pereira): _{{ site.data.speakers[7].talktitle }}_ |
+| 8:30 | | _Buses to hotels_ | [Shuttle Information]({{ url }}/travel#shuttle) |
+-->
+
+### June 25, Day 4, 8am-1pm PT
+
+[Time in other timezones](https://time.is/compare/0800AM_25_June_2020_in_PT)
 
 #### [Workshops]({{ url }}/workshops)
-[Shuttle Information]({{ url }}/travel#shuttle)
 
+<!-- [Shuttle Information]({{ url }}/travel#shuttle) -->
 
 <!-- Modal -->
 <div id="Spotlight1Modal" class="reveal-modal large" data-reveal aria-labelledby="Spotlight1Modal" aria-hidden="true" role="dialog">
@@ -89,8 +105,6 @@ Discriminative Candidate Generation for Medical Concept Linking</li>
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
 
-
-
 <div id="Spotlight2Modal" class="reveal-modal large" data-reveal aria-labelledby="Spotlight2Modal" aria-hidden="true" role="dialog">
   <h2 id="modalTitle">Session 2</h2>
   <h3>May 20, 3:10 - 3:45</h3>
@@ -121,10 +135,6 @@ OPIEC: An Open Information Extraction Corpus</li>
     </ul>
   <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 </div>
-
-
-
-
 
 <div id="Spotlight3Modal" class="reveal-modal large" data-reveal aria-labelledby="Spotlight3Modal" aria-hidden="true" role="dialog">
   <h2 id="modalTitle">Session 3</h2>

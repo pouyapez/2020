@@ -5,8 +5,11 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-<div style='border-radius: 25px; padding: 20px; background: #CD5C5C; color: #FFFFFF;'>
-<b>COVID-19 UPDATE:</b> Due to the COVID-19 pandemic, AKBC 2020 is moving to a fully virtual conference including invited and contributed talks, poster sessions, workshops and hallway discussions. AKBC 2020 dates (originally June 22-24) will remain approximately the same.  Stay tuned for more details during the upcoming weeks!
+<div style='border-radius: 15px; padding: 10px; background: #c0cca1;'>
+
+<b>COVID-19 UPDATE:</b> Due to the COVID-19 pandemic, AKBC 2020 is moving to a fully virtual conference including invited and contributed talks, poster sessions, workshops and hallway discussions. AKBC 2020 dates (originally June 22-24) will remain approximately the same: main conference will be <b>June 22-24</b>, while <a href="{{ site.baseurl }}/workshops/">workshops</a> will be <b>June 25</b>. <br>
+Stay tuned for more details during the upcoming weeks!
+
 </div>
 
 <!-- #### June 22-24 2020 -->
@@ -26,6 +29,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+May 2020 : Final [dates]({{ site.baseurl }}/schedule/) of the conference accounced: **June 22-25**.<br/>
 May 2020 : List of [workshops]({{ site.baseurl }}/workshops/), with their websites, available now.<br/>
 May 2020 : List of [invited talks]({{ site.baseurl }}/speakers/) available now.<br/>
 May 2020 : List of [accepted papers]({{ site.baseurl }}/papers/) available now.<br/>
