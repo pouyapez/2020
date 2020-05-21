@@ -37,20 +37,20 @@
 #   - title: Call for papers
 #     url: "/cfp/"
 
-- title: Information for participants
-  url: "/venue"
-  side: left
-  dropdown:
-    - title: "Venue"
-      url: "/venue/"
-      side: left
-  # dropdown:
-  #   - title: "Venue"
-  #     url: "/venue/"
-  # - title: "Visa information"
-  #   url: "/registration/#visa"
-  # - title: "Travel"
-  #   url: "/travel/"
+# - title: Information for participants
+#   url: "/venue"
+#   side: left
+#   dropdown:
+#     - title: "Venue"
+#       url: "/venue/"
+#       side: left
+# dropdown:
+#   - title: "Venue"
+#     url: "/venue/"
+# - title: "Visa information"
+#   url: "/registration/#visa"
+# - title: "Travel"
+#   url: "/travel/"
 # - title: Sponsors
 #   url: "/sponsors/"
 #   side: left
