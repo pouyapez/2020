@@ -54,10 +54,13 @@
 # - title: Sponsors
 #   url: "/sponsors/"
 #   side: left
-
-- title: Dates
-  url: "/#dates"
+- title: Register
+  url: "/registration/"
   side: left
+
+# - title: Dates
+#   url: "/#dates"
+#   side: left
 
 # - title: Registration
 #   url: "/registration/"

@@ -6,11 +6,17 @@ header:
 ---
 
 <div style='border-radius: 15px; padding: 10px; background: #c0cca1;'>
-
-<b>COVID-19 UPDATE:</b> Due to the COVID-19 pandemic, AKBC 2020 is moving to a fully virtual conference including invited and contributed talks, poster sessions, workshops and hallway discussions. AKBC 2020 dates (originally June 22-24) will remain approximately the same: main conference will be <b>June 22-24</b>, while <a href="{{ site.baseurl }}/workshops/">workshops</a> will be <b>June 25</b>. <br>
+<b>COVID-19 UPDATE:</b> Due to the COVID-19 pandemic, AKBC 2020 is moving to a fully virtual conference including invited and contributed talks, poster sessions, workshops and hallway discussions. AKBC 2020 dates (originally June 22-24) will remain approximately the same: main conference will be <b>June 22-24</b>, while <a href="{{ site.baseurl }}/workshops/">workshops</a> will be on <b>June 25</b>. <br>
 Stay tuned for more details during the upcoming weeks!
-
 </div>
+
+## Registration
+
+Registration is open! The registration fees are $30 for students and $50 for non-students.
+
+**Important:** In order to view conference content, you must register with an email address that is linked to an account on [OpenReview.net](https://openreview.net/login). If you have not already created an account on [OpenReview.net](https://openreview.net/login), please do so first.
+
+<a class="button" href="https://na.eventscloud.com/akbc2020">Register here</a>
 
 <!-- #### June 22-24 2020 -->
 
@@ -29,6 +35,7 @@ Nearly ten years after the first AKBC workshop in Grenoble, France, AKBC has bec
 
 ## Latest news
 
+Jun 4 2020: [Registration](https://na.eventscloud.com/akbc2020) is now open, only $30 for students, and $50 for non-students.<br/>
 May 2020 : Final [dates]({{ site.baseurl }}/schedule/) of the conference accounced: **June 22-25**.<br/>
 May 2020 : List of [workshops]({{ site.baseurl }}/workshops/), with their websites, available now.<br/>
 May 2020 : List of [invited talks]({{ site.baseurl }}/speakers/) available now.<br/>
