@@ -12,7 +12,7 @@ Workshops will take place on **June 25, 2020** from 8am-1pm, PT.
 {% for workshop in site.data.workshops %}
     <li>
     <b>
-        {{- workshop.name -}}
+        {{- workshop.title -}}
         {% if workshop.acronym %}
             ({{- workshop.acronym -}})
         {%- endif -%}
@@ -20,10 +20,10 @@ Workshops will take place on **June 25, 2020** from 8am-1pm, PT.
     {%- if workshop.url -%}
     , <a href="{{ workshop.url }}">Website</a>
     {%- endif -%}
-    {%- if workshop.organizers -%}
+    {%- if workshop.authors -%}
     <br>
     <i>
-        {{- workshop.organizers -}}
+        {{- workshop.authors | join: ", " -}}
     </i>
     {%- endif -%}
     </li>

@@ -1,22 +1,55 @@
-- name: Bias in Automatic Knowledge Graph Construction
+- UID: kgbias
+  title: Bias in Automatic Knowledge Graph Construction
   url: https://kg-bias.github.io/
   acronym: KG-BIAS
-  organizers: Edgar Meij, Tara Safavi, Chenyan Xiong, Miriam Redi, Gianluca Demartini, Fatma Özcan
+  authors:
+    - Edgar Meij
+    - Tara Safavi
+    - Chenyan Xiong
+    - Miriam Redi
+    - Gianluca Demartini
+    - Fatma Özcan
   duration: Half-day
+  abstract: ""
 
-- name: Knowledge Bases and Multiple Modalities
+- UID: kbmm
+  title: Knowledge Bases and Multiple Modalities
   url: https://kb-mm-2020.github.io
   acronym: KBMM
-  organizers: Pouya Pezeshkpour, Anand Mishra, Alice Wang, Hugues Bouchard, Aasish Pappu, Partha Talukdar, Sameer Singh
+  authors:
+    - Pouya Pezeshkpour
+    - Anand Mishra
+    - Alice Wang
+    - Hugues Bouchard
+    - Aasish Pappu
+    - Partha Talukdar
+    - Sameer Singh
   duration: Half-day
+  abstract: ""
 
-- name: Structured and Unstructured KBs
-  organizers: Danqi Chen, Rajarshi Das, Angela Fan, Sewon Min, Siva Reddy, Pat Verga
+- UID: uskb
+  title: Structured and Unstructured KBs
+  authors:
+    - Danqi Chen
+    - Rajarshi Das
+    - Angela Fan
+    - Sewon Min
+    - Siva Reddy
+    - Pat Verga
   duration: Half-day
   url: https://uskb-workshop.github.io/
+  abstract: ""
 
-- name: Natural Language Processing and Data Mining for Scientific Text
+- UID: scinlp
+  title: Natural Language Processing and Data Mining for Scientific Text
   acronym: SciNLP
-  organizers: Kyle Lo, Iz Beltagy, Arman Cohan, Keith Hall, Yi Luan, Lucy Lu Wang
+  authors:
+    - Kyle Lo
+    - Iz Beltagy
+    - Arman Cohan
+    - Keith Hall
+    - Yi Luan
+    - Lucy Lu Wang
   duration: Half-day
   url: https://scinlp-workshop.github.io/
+  abstract: ""
