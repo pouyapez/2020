@@ -118,7 +118,7 @@
       "Livio Baldini Soares",
       "Tom Kwiatkowski"
     ],
-    "pdf": "/pdf/5b3c66a2a64a2cebdf77bc867a4f5c31674406d3.pdf",
+    "pdf": "/pdf/98236ce89e5e6d8f6cfd7e77a550638d7470d7d6.pdf",
     "subject_areas": [
       "Information Extraction",
       "Machine Learning"
@@ -225,18 +225,18 @@
       "amelie.l41.30@gmail.com",
       "vaishak@ed.ac.uk"
     ],
-    "title": "Learning Credal Sum Product Networks",
+    "title": "Learning Credal Sum-Product Networks",
     "authors": [
       "Amelie Levray",
       "Vaishak Belle"
     ],
-    "pdf": "/pdf/a40cd1842fa2de68b10cda9db60ae3fd2910c421.pdf",
+    "pdf": "/pdf/091a865b321c1ff292f684687dc186158f962e30.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "Relational AI"
     ],
-    "abstract": "Probabilistic representations, such as Bayesian and Markov networks, are fundamental to much of statistical machine learning. Thus, learning probabilistic representations directly from data is a deep challenge, the main computational bottleneck being inference that is intractable. Tractable learning is a powerful new paradigm that attempts to learn distributions that support efficient probabilistic querying. By leveraging local structure, representations such as sum-product networks (SPNs) can capture high tree-width models with many hidden layers, essentially a deep architecture, while still admitting a range of probabilistic queries to be computable in time polynomial in the network size.  While the progress is impressive, numerous data sources are incomplete, and in the presence of missing data, structure learning methods nonetheless appeal to single distributions without characterizing the loss in confidence. In recent work, credal sum-product networks, an imprecise extension of sum-product networks, were proposed to capture this robustness angle. In this work, we are interested in how such representations can be learnt and thus study how the computational machinery underlying tractable learning and inference can be generalized for imprecise probabilities. ",
-    "paperhash": "levray|learning_credal_sum_product_networks",
+    "abstract": "Probabilistic representations, such as Bayesian and Markov networks, are fundamental to much of statistical machine learning. Thus, learning probabilistic representations directly from data is a deep challenge, the main computational bottleneck being inference that is intractable. Tractable learning is a powerful new paradigm that attempts to learn distributions that support efficient probabilistic querying. By leveraging local structure, representations such as sum-product networks (SPNs) can capture high tree-width models with many hidden layers, essentially a deep architecture, while still admitting a range of probabilistic queries to be computable in time polynomial in the network size.  While the progress is impressive, numerous data sources are incomplete, and in the presence of missing data, structure learning methods nonetheless revert to  single distributions without  characterizing the loss in confidence. In recent work, credal sum-product networks, an imprecise extension of sum-product networks, were proposed to capture this robustness angle. In this work, we are interested in how such representations can be learnt and thus study how the computational machinery underlying tractable learning and inference can be generalized for imprecise probabilities. \n",
+    "paperhash": "levray|learning_credal_sumproduct_networks",
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nlevray2020learning,\ntitle={Learning Credal Sum Product Networks},\nauthor={Amelie Levray and Vaishak Belle},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=3-Tc21z1Ub}\n}",
     "forum_id": "3-Tc21z1Ub",
@@ -332,7 +332,7 @@
       "Xin Li",
       "Yangqiu Song"
     ],
-    "pdf": "/pdf/2c46ab8c6864c4797f19f194896d55596a188007.pdf",
+    "pdf": "/pdf/f9ad4e4b75227675d49928fed3b165dc1dc55a17.pdf",
     "subject_areas": [
       "Information Extraction"
     ],
@@ -473,7 +473,7 @@
       "ranking",
       "negation"
     ],
-    "TL;DR": "Knowledge bases so far only contain positive information. We argue for the importance of negative information, and present two methods to mine it.",
+    "TL;DR": "Most knowledge bases so far only contain positive information. We argue for the importance of negative information, and present two methods to mine it.",
     "authorids": [
       "harnaout@mpi-inf.mpg.de",
       "srazniew@mpi-inf.mpg.de",
@@ -485,7 +485,7 @@
       "Simon Razniewski",
       "Gerhard Weikum"
     ],
-    "pdf": "/pdf/2eca04de3630ff5d6535d4d90df31f2890302ca1.pdf",
+    "pdf": "/pdf/3b6dc13840b1eb2ac65949374068d574bd2bda26.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "Information Extraction"
@@ -520,7 +520,7 @@
       "Christos Faloutsos",
       "Lise Getoor"
     ],
-    "pdf": "/pdf/6eaac2b61f2da4dbd441d8e56e51e67af3326b21.pdf",
+    "pdf": "/pdf/bfdc5ca90588351dfd53b7cbfe9365641b9d01d5.pdf",
     "subject_areas": [],
     "abstract": "Presence of near identical, but distinct, entities called entity variations makes the task of data integration challenging. For example, in the domain of grocery products, variations share the same value for attributes such as brand, manufacturer and product line, but differ in other attributes, called variational attributes, such as package size and color. Identifying variations across data sources is an important task in itself and is crucial for identifying duplicates. However, this task is challenging as the variational attributes are often present as a part of unstructured text and are domain dependent. In this work, we propose our approach, Contrastive entity linkage, to identify both entity pairs that are the same and pairs that are variations of each other. We propose a novel unsupervised approach, VarSpot, to mine domain-dependent variational attributes present in unstructured text. The proposed approach reasons about both similarities and differences between entities and can easily scale to large sources containing millions of entities. We show the generality of our approach by performing experimental evaluation on three different domains. Our approach significantly outperforms state-of-the-art learning-based and rule-based entity linkage systems by up to 4% F1 score when identifying duplicates, and up to 41% when identifying entity variations.",
     "paperhash": "embar|contrastive_entity_linkage_mining_variational_attributes_from_large_catalogs_for_entity_linkage",
@@ -557,7 +557,7 @@
       "Kevin S. Hughes",
       "Byron Wallace"
     ],
-    "pdf": "/pdf/ac2104eed65661c20cc9c32a40e3001704b7ec23.pdf",
+    "pdf": "/pdf/948bfb23353a017c1a16b1f435a871e64bc2af38.pdf",
     "subject_areas": [
       "Information Extraction",
       "Applications"
@@ -565,6 +565,7 @@
     "abstract": "The vast and rapidly expanding volume of biomedical literature makes it difficult for domain experts to keep up with the evidence. In this work, we specifically consider the exponentially growing subarea of genetics in cancer. The need to synthesize and centralize this evidence for dissemination has motivated a team of physicians (with whom this work is a collaboration) to manually construct and maintain a knowledge base that distills key results reported in the literature. This is a laborious process that entails reading through full-text articles to understand the study design, assess study quality, and extract the reported cancer risk estimates associated with particular hereditary cancer genes (i.e., \\emph{penetrance}). In this work, we propose models to automatically surface key elements from full-text cancer genetics articles, with the ultimate aim of expediting the manual workflow currently in place.\n\nWe propose two challenging tasks that are critical for characterizing the findings reported cancer genetics studies: (i) Extracting snippets of text that describe \\emph{ascertainment mechanisms}, which in turn inform whether the population studied may introduce bias owing to deviations from the target population; (ii) Extracting reported risk estimates (e.g., odds or hazard ratios) associated with specific germline mutations. The latter task may be viewed as a joint entity tagging and relation extraction problem. To train models for these tasks, we induce distant supervision over tokens and snippets in full-text articles using the manually constructed knowledge base. We propose and evaluate several model variants, including a transformer-based joint entity and relation extraction model to extract \\texttt{<germline mutation, risk-estimate>} pairs. We observe strong empirical performance, highlighting the practical potential for such models to aid KB construction in this space. We ablate components of our model, observing, e.g., that a joint model for \\texttt{<germline mutation, risk-estimate>} fares substantially better than a pipelined approach. ",
     "paperhash": "wadhwa|semiautomating_knowledge_base_construction_for_cancer_genetics",
     "archival_status": "Archival",
+    "TL;DR": "Retrieving medical information from oncology literature using NLP. ",
     "_bibtex": "@inproceedings{\nwadhwa2020semiautomating,\ntitle={Semi-Automating Knowledge Base Construction for Cancer Genetics},\nauthor={Somin Wadhwa and Kanhua Yin and Kevin S. Hughes and Byron Wallace},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=EQrvONEwh}\n}",
     "forum_id": "EQrvONEwh",
     "author_profiles": [
@@ -639,7 +640,7 @@
       "Nikos Voskarides",
       "Evangelos Kanoulas"
     ],
-    "pdf": "/pdf/19b1a1c946b5167b675817dc917477d6146c08aa.pdf",
+    "pdf": "/pdf/80ca76350ab431fb1875b73448f00dca13a0fdb1.pdf",
     "subject_areas": [
       "QuestionAnswering and Reasoning"
     ],
@@ -712,13 +713,13 @@
       "Martin Schmitt",
       "Benjamin Roth"
     ],
-    "pdf": "/pdf/d9baf6a3f7f1ddc5f5c19ab8567f6867cc13d300.pdf",
+    "pdf": "/pdf/a11e6a97c8d61b1e10d72dffde74e70d67bf136e.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "QuestionAnswering and Reasoning",
       "Applications"
     ],
-    "abstract": "Knowledge base completion (KBC) methods aim at inferring missing facts from the information present in a knowledge base (KB). In the prevailing evaluation paradigm, a model does not strictly decide about if a new fact should be accepted, but rather puts it in a relative position to other candidate facts via ranking. We argue that consideration of binary predictions is essential to reflect the actual KBC quality, and propose a novel evaluation paradigm, designed to provide more transparent model selection criteria for a realistic scenario. We construct a data set FB13k-QAQ with an alternative evaluation data structure, where single facts are transformed to entity-relation queries with a corresponding entity set of correct answers. Some randomly chosen correct answers are removed from the data set, resulting in incomplete queries or even queries with no possible answer. The latter specifically contrast the ranking setting. Obtained on the new data set, differences in relative performance of state-of-the-art KB embedding models in the ranking and classification settings confirm that ranking quality does not necessarily translate to completion quality. The results motivate the development of KB embedding models with better prediction separability, and we propose a simple variant of TransE that encourages thresholding and achieves a significant improvement in prediction F-Score relative to the original TransE.",
+    "abstract": "Knowledge base completion (KBC) methods aim at inferring missing facts from the information present in a knowledge base (KB). Such a method thus needs to estimate the likelihood of candidate facts and ultimately to distinguish between true facts and false ones to avoid compromising the KB with untrue information. In the prevailing evaluation paradigm, however, models do not actually decide whether a new fact should be accepted or not but are solely judged on the position of true facts in a likelihood ranking with other candidates. We argue that consideration of binary predictions is essential to reflect the actual KBC quality, and propose a novel evaluation paradigm, designed to provide more transparent model selection criteria for a realistic scenario. We construct the data set FB14k-QAQ with an alternative evaluation data structure: instead of single facts, we use KB queries, i.e., facts where one entity is replaced with a variable, and construct corresponding sets of entities that are correct answers. We randomly remove some of these correct answers from the data set, simulating the realistic scenario of real-world entities missing from a KB. This way, we can explicitly measure a model\u2019s ability to handle queries that have more correct answers in the real world than in the KB, including the special case of queries without any valid answer. The latter especially contrasts the ranking setting. We evaluate a number of state-of-the-art KB embeddings models on our new benchmark. The differences in relative performance between ranking-based and classification-based evaluation that we observe in our experiments confirm our hypothesis that good performance on the ranking task does not necessarily translate to good performance on the actual completion task. Our results motivate future work on KB embedding models with better prediction separability and, as a first step in that direction, we propose a simple variant of TransE that encourages thresholding and achieves a significant improvement in classification F 1 score relative to the original TransE.",
     "paperhash": "speranskaya|ranking_vs_classifying_measuring_knowledge_base_completion_quality",
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nsperanskaya2020ranking,\ntitle={Ranking vs. Classifying: Measuring Knowledge Base Completion Quality},\nauthor={Marina Speranskaya and Martin Schmitt and Benjamin Roth},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=3pcecaCEK-}\n}",
@@ -779,21 +780,21 @@
       "guennemann@in.tum.de",
       "volker.tresp@siemens.com"
     ],
-    "title": "Graph Hawkes Neural Network for Future Prediction on Temporal Knowledge Graphs",
+    "title": "Graph Hawkes Neural Network for Forecasting on Temporal Knowledge Graphs",
     "authors": [
       "Zhen Han",
-      "Yuyi Wang",
       "Yunpu Ma",
+      "Yuyi Wang",
       "Stephan Gu\u0308nnemann",
       "Volker Tresp"
     ],
-    "pdf": "/pdf/ae1b67ca8fc912b99b61fe11c45293f9e539ee3b.pdf",
+    "pdf": "/pdf/b2e02aa4b865c0795af465fcc4d0e98cd475dd55.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "Relational AI"
     ],
     "abstract": "The Hawkes process has become a standard method for modeling self-exciting event sequences with different event types. A recent work generalizing the Hawkes process to a neurally self-modulating multivariate point process enables the capturing of more complex and realistic influences of past events on the future. However, this approach is limited by the number of event types, making it impossible to model the dynamics of evolving graph sequences, where each possible link between two nodes can be considered as an event type. The problem becomes even more dramatic when links are directional and labeled, since, in this case, the number of event types scales with the number of nodes and link types. To address this issue, we propose the Graph Hawkes Neural Network that can capture the dynamics of evolving graph sequences and predict the occurrence of a fact in a future time. Extensive experiments on large-scale temporal relational databases, such as temporal knowledge graphs, demonstrate the effectiveness of our approach.",
-    "paperhash": "han|graph_hawkes_neural_network_for_future_prediction_on_temporal_knowledge_graphs",
+    "paperhash": "han|graph_hawkes_neural_network_for_forecasting_on_temporal_knowledge_graphs",
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nhan2020graph,\ntitle={Graph Hawkes Neural Network for Future Prediction on Temporal Knowledge Graphs},\nauthor={Zhen Han and Yuyi Wang and Yunpu Ma and Stephan G{\\\"u}nnemann and Volker Tresp},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=kXVazet_cB}\n}",
     "forum_id": "kXVazet_cB",
