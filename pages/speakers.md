@@ -6,9 +6,9 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-{% for speaker in site.data.invited-talks %}
+{% for speaker in site.data.speakers %}
 
-<div id="{{ speaker.id }}Summary"></div>
+<div id="{{ speaker.UID }}Summary"></div>
 <div class="row">
 	<div class="large-1 columns"></div>
 	<div class="small-8 medium-3 columns">
@@ -17,14 +17,14 @@ header:
 
 <div class="small-12 medium-9 large-7 columns" markdown="1">
 
-### [{{ speaker.name }}]({{ speaker.url }})
+### [{{ speaker.speaker }}]({{ speaker.url }})
 
-#### {{ speaker.location }}
+#### {{ speaker.institution }}
 
 <br />
 _{{ speaker.title }}_ <br />
 
-<a href="#{{ speaker.id }}Detail"> Abstract and Bio</a>
+<a href="#{{ speaker.UID }}Detail"> Abstract and Bio</a>
 
 </div>
 
@@ -38,9 +38,9 @@ _{{ speaker.title }}_ <br />
 <br />
 <h1> Speaker abstracts and bios </h1>
 <hr/>
-{% for speaker in site.data.invited-talks %}
+{% for speaker in site.data.speakers %}
 
-<div id="{{ speaker.id }}Detail"></div>
+<div id="{{ speaker.UID }}Detail"></div>
 <div class="row">
 	<div class="large-1 columns"></div>
 	<div class="small-8 medium-3 columns">
@@ -49,9 +49,9 @@ _{{ speaker.title }}_ <br />
 
 <div class="small-12 medium-9 large-7 columns" markdown="1">
 
-### [{{ speaker.name }}]({{ speaker.url }})
+### [{{ speaker.speaker }}]({{ speaker.url }})
 
-#### {{ speaker.location }}
+#### {{ speaker.institution }}
 
 </div>
 </div>
@@ -64,7 +64,7 @@ _{{ speaker.title }}_ <br />
 <h6> Bio </h6>
 {{ speaker.bio }}
 
-<a href="#{{ speaker.id }}Summary">Back</a>
+<a href="#{{ speaker.UID }}Summary">Back</a>
 
 <hr />
 </div>
