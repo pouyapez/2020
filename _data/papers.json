@@ -15,7 +15,7 @@
     "paperhash": "sachan|knowledge_graph_embedding_compression",
     "archival_status": "",
     "forum_id": "SOEJGCE76x",
-    "UID": "Paper76",
+    "UID": "76",
     "session": [],
     "author_profiles": [
       "~MRINMAYA_SACHAN2"
@@ -49,7 +49,7 @@
     "paperhash": "lin|commongen_a_constrained_text_generation_challenge_for_generative_commonsense_reasoning",
     "archival_status": "",
     "forum_id": "yuD2q50HWv",
-    "UID": "Paper75",
+    "UID": "75",
     "session": [],
     "author_profiles": [
       "~Bill_Yuchen_Lin1",
@@ -94,7 +94,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nthai2020using,\ntitle={Using BibTeX to Automatically Generate Labeled Data for Citation Field Extraction},\nauthor={Dung Thai and Zhiyang Xu and Nicholas Monath and Boris Veytsman and Andrew McCallum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=OnUd3hf3o3}\n}",
     "forum_id": "OnUd3hf3o3",
-    "UID": "Paper85",
+    "UID": "85",
     "session": [],
     "author_profiles": [
       "~Dung_Ngoc_Thai1",
@@ -134,7 +134,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nf{\\'e}vry2020empirical,\ntitle={Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking},\nauthor={Thibault F{\\'e}vry and Nicholas FitzGerald and Livio Baldini Soares and Tom Kwiatkowski},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=iHXV8UGYyL}\n}",
     "forum_id": "iHXV8UGYyL",
-    "UID": "Paper83",
+    "UID": "83",
     "session": [],
     "author_profiles": [
       "~Thibault_F\u00e9vry2",
@@ -175,7 +175,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nhua2020xref,\ntitle={{\\{}XREF{\\}}: Entity Linking for Chinese News Comments with Supplementary Article Reference},\nauthor={Xinyu Hua and Lei Li and Lifeng Hua and Lu Wang},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=1hLH6CKIjN}\n}",
     "forum_id": "1hLH6CKIjN",
-    "UID": "Paper42",
+    "UID": "42",
     "session": [],
     "author_profiles": [
       "~Xinyu_Hua1",
@@ -214,7 +214,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\npetroni2020how,\ntitle={How Context Affects Language Models' Factual Predictions},\nauthor={Fabio Petroni and Patrick Lewis and Aleksandra Piktus and Tim Rockt{\\\"a}schel and Yuxiang Wu and Alexander H. Miller and Sebastian Riedel},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=025X0zPfn}\n}",
     "forum_id": "025X0zPfn",
-    "UID": "Paper21",
+    "UID": "21",
     "session": [],
     "author_profiles": [
       "~Fabio_Petroni2",
@@ -252,7 +252,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nlevray2020learning,\ntitle={Learning Credal Sum Product Networks},\nauthor={Amelie Levray and Vaishak Belle},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=3-Tc21z1Ub}\n}",
     "forum_id": "3-Tc21z1Ub",
-    "UID": "Paper12",
+    "UID": "12",
     "session": [],
     "author_profiles": [
       "~Am\u00e9lie_Levray2",
@@ -285,7 +285,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nwang2020dolores,\ntitle={{\\{}DOLORES{\\}}: Deep Contextualized Knowledge Graph Embeddings},\nauthor={Haoyu Wang and Vivek Kulkarni and William Yang Wang},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=ajrveGQBl0}\n}",
     "forum_id": "ajrveGQBl0",
-    "UID": "Paper10",
+    "UID": "10",
     "session": [],
     "author_profiles": [
       "~Haoyu_Wang2",
@@ -323,7 +323,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\narora2020iterefine,\ntitle={IterefinE: Iterative {\\{}KG{\\}} Refinement Embeddings using Symbolic Knowledge},\nauthor={Siddhant Arora and Srikanta Bedathur and Maya Ramanath and Deepak Sharma},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=fCQvGMT57w}\n}",
     "forum_id": "fCQvGMT57w",
-    "UID": "Paper18",
+    "UID": "18",
     "session": [],
     "author_profiles": [
       "~Siddhant_Arora1",
@@ -358,7 +358,7 @@
     "paperhash": "dai|exploiting_semantic_relations_for_finegrained_entity_typing",
     "_bibtex": "@inproceedings{\ndai2020exploiting,\ntitle={Exploiting Semantic Relations for Fine-grained Entity Typing},\nauthor={Hongliang Dai and Xin Li and Yangqiu Song},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=BSUYfTada3}\n}",
     "forum_id": "BSUYfTada3",
-    "UID": "Paper6",
+    "UID": "6",
     "session": [],
     "author_profiles": [
       "~Hongliang_Dai1",
@@ -408,7 +408,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nh{\\\"u}rriyeto{\\u{g}}lu2020crosscontext,\ntitle={Cross-context News Corpus for Protest Events related Knowledge Base Construction},\nauthor={Ali H{\\\"u}rriyeto{\\u{g}}lu and Erdem Y{\\\"o}r{\\\"u}k and Deniz Y{\\\"u}ret and Osman Mutlu and {\\c{C}}a{\\u{g}}r{\\i} Yoltar and F{\\i}rat Duru{\\c{s}}an and Burak G{\\\"u}rel},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=7NZkNhLCjp}\n}",
     "forum_id": "7NZkNhLCjp",
-    "UID": "Paper90",
+    "UID": "90",
     "session": [],
     "author_profiles": [
       "~Ali_H\u00fcrriyeto\u011flu1",
@@ -442,7 +442,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nchalier2020joint,\ntitle={Joint Reasoning for Multi-Faceted Commonsense Knowledge},\nauthor={Yohan Chalier and Simon Razniewski and Gerhard Weikum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=QnPV72SZVt}\n}",
     "forum_id": "QnPV72SZVt",
-    "UID": "Paper2",
+    "UID": "2",
     "session": [],
     "author_profiles": [
       "",
@@ -483,7 +483,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nhwang2020syntactic,\ntitle={Syntactic Question Abstraction and Retrieval for Data-Scarce Semantic Parsing},\nauthor={Wonseok Hwang and Jinyeong Yim and Seunghyun Park and Minjoon Seo},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=5c_ZmAdVfI}\n}",
     "forum_id": "5c_ZmAdVfI",
-    "UID": "Paper30",
+    "UID": "30",
     "session": [],
     "author_profiles": [
       "~Wonseok_Hwang1",
@@ -521,7 +521,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\narnaout2020enriching,\ntitle={Enriching Knowledge Bases with Interesting Negative Statements},\nauthor={Hiba Arnaout and Simon Razniewski and Gerhard Weikum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=pSLmyZKaS}\n}",
     "forum_id": "pSLmyZKaS",
-    "UID": "Paper4",
+    "UID": "4",
     "session": [],
     "author_profiles": [
       "~Hiba_Arnaout1",
@@ -562,7 +562,7 @@
     "TL;DR": "A novel unsupervised approach to mine domain-dependent variational attributes present in unstructured text and use it to identify entity pairs that are the same and pairs that are variations of each other.",
     "_bibtex": "@inproceedings{\nembar2020contrastive,\ntitle={Contrastive Entity Linkage: Mining Variational Attributes from Large Catalogs for Entity Linkage},\nauthor={Varun Embar and Bunyamin Sisman and Hao Wei and Xin Luna Dong and Christos Faloutsos and Lise Getoor},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=fR44nF03Rb}\n}",
     "forum_id": "fR44nF03Rb",
-    "UID": "Paper26",
+    "UID": "26",
     "session": [],
     "author_profiles": [
       "~Varun_R._Embar1",
@@ -605,7 +605,7 @@
     "TL;DR": "Retrieving medical information from oncology literature using NLP. ",
     "_bibtex": "@inproceedings{\nwadhwa2020semiautomating,\ntitle={Semi-Automating Knowledge Base Construction for Cancer Genetics},\nauthor={Somin Wadhwa and Kanhua Yin and Kevin S. Hughes and Byron Wallace},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=EQrvONEwh}\n}",
     "forum_id": "EQrvONEwh",
-    "UID": "Paper50",
+    "UID": "50",
     "session": [],
     "author_profiles": [
       "~Somin_Wadhwa1",
@@ -651,7 +651,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\njiang2020learning,\ntitle={Learning Relation Entailment with Structured and Textual Information},\nauthor={Zhengbao Jiang and Jun Araki and Donghan Yu and Ruohong Zhang and Wei Xu and Yiming Yang and Graham Neubig},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=ToTf_MX7Vn}\n}",
     "forum_id": "ToTf_MX7Vn",
-    "UID": "Paper14",
+    "UID": "14",
     "session": [],
     "author_profiles": [
       "~Zhengbao_Jiang2",
@@ -690,7 +690,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nsidiropoulos2020knowledge,\ntitle={Knowledge Graph Simple Question Answering for Unseen Domains},\nauthor={Georgios Sidiropoulos and Nikos Voskarides and Evangelos Kanoulas},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=Ie2Y94Ty8K}\n}",
     "forum_id": "Ie2Y94Ty8K",
-    "UID": "Paper35",
+    "UID": "35",
     "session": [],
     "author_profiles": [
       "~Georgios_Sidiropoulos1",
@@ -729,7 +729,7 @@
     "paperhash": "amini|procedural_reading_comprehension_with_attributeaware_context_flow",
     "_bibtex": "@inproceedings{\namini2020procedural,\ntitle={Procedural Reading Comprehension with Attribute-Aware Context Flow},\nauthor={Aida Amini and Antoine Bosselut and Bhavana Dalvi and Yejin Choi and Hannaneh Hajishirzi},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=grnYRcBwjq}\n}",
     "forum_id": "grnYRcBwjq",
-    "UID": "Paper63",
+    "UID": "63",
     "session": [],
     "author_profiles": [
       "~Aida_Amini1",
@@ -769,7 +769,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nsperanskaya2020ranking,\ntitle={Ranking vs. Classifying: Measuring Knowledge Base Completion Quality},\nauthor={Marina Speranskaya and Martin Schmitt and Benjamin Roth},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=3pcecaCEK-}\n}",
     "forum_id": "3pcecaCEK-",
-    "UID": "Paper81",
+    "UID": "81",
     "session": [],
     "author_profiles": [
       "~Marina_Speranskaya1",
@@ -807,7 +807,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\npezeshkpour2020revisiting,\ntitle={Revisiting Evaluation of Knowledge Base Completion Models},\nauthor={Pouya Pezeshkpour and Yifan Tian and Sameer Singh},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=1uufzxsxfL}\n}",
     "forum_id": "1uufzxsxfL",
-    "UID": "Paper5",
+    "UID": "5",
     "session": [],
     "author_profiles": [
       "~pouya_pezeshkpour1",
@@ -848,7 +848,7 @@
     "TL;DR": "We propose the Graph Hawkes Neural Network that can capture the dynamics of evolving multi-relational graphs and predict the occurrence of a fact in a future time.",
     "_bibtex": "@inproceedings{\nhan2020graph,\ntitle={Graph Hawkes Neural Network for Future Prediction on Temporal Knowledge Graphs},\nauthor={Zhen Han and Yuyi Wang and Yunpu Ma and Stephan G{\\\"u}nnemann and Volker Tresp},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=kXVazet_cB}\n}",
     "forum_id": "kXVazet_cB",
-    "UID": "Paper20",
+    "UID": "20",
     "session": [],
     "author_profiles": [
       "",
@@ -887,7 +887,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nnandwani2020oxkbc,\ntitle={Ox{\\{}KBC{\\}}: Outcome Explanation for Factorization Based Knowledge Base Completion},\nauthor={Yatin Nandwani and Ankesh Gupta and Aman Agrawal and Mayank Singh Chauhan and Parag Singla and Mausam},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=nqYhFwaUj}\n}",
     "forum_id": "nqYhFwaUj",
-    "UID": "Paper55",
+    "UID": "55",
     "session": [],
     "author_profiles": [
       "~Yatin_Nandwani1",
@@ -934,7 +934,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nmin2020transint,\ntitle={Trans{\\{}INT{\\}}: Embedding Implication Rules in Knowledge Graphs with Isomorphic Intersections of Linear Subspaces},\nauthor={So Yeon Min and Preethi Raghavan and Peter Szolovits},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=shkmWLRBXH}\n}",
     "forum_id": "shkmWLRBXH",
-    "UID": "Paper87",
+    "UID": "87",
     "session": [],
     "author_profiles": [
       "~So_Yeon_Min1",
@@ -979,7 +979,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\npatel2020representing,\ntitle={Representing Joint Hierarchies with Box Embeddings},\nauthor={Dhruvesh Patel and Shib Sankar Dasgupta and Michael Boratko and Xiang Li and Luke Vilnis and Andrew McCallum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=J246NSqR_l}\n}",
     "forum_id": "J246NSqR_l",
-    "UID": "Paper91",
+    "UID": "91",
     "session": [],
     "author_profiles": [
       "~Dhruvesh_Patel1",
@@ -1022,7 +1022,7 @@
     "paperhash": "bhutani|sampo_unsupervised_knowledge_base_construction_for_opinions_and_implications",
     "_bibtex": "@inproceedings{\nbhutani2020sampo,\ntitle={Sampo: Unsupervised Knowledge Base Construction for Opinions and Implications},\nauthor={Nikita Bhutani and Aaron Traylor and Chen Chen and Xiaolan Wang and Behzad Golshan and Wang-Chiew Tan},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=YN8fkglNA}\n}",
     "forum_id": "YN8fkglNA",
-    "UID": "Paper54",
+    "UID": "54",
     "session": [],
     "author_profiles": [
       "~Nikita_Bhutani1",
@@ -1064,7 +1064,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\ntam2020predicting,\ntitle={Predicting Institution Hierarchies with Set-based Models},\nauthor={Derek Tam and Nicholas Monath and Ari Kobren and Andrew McCallum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=pJg1LahGc0}\n}",
     "forum_id": "pJg1LahGc0",
-    "UID": "Paper49",
+    "UID": "49",
     "session": [],
     "author_profiles": [
       "~Derek_Tam1",
@@ -1104,7 +1104,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nyu2020enriching,\ntitle={Enriching Large-Scale Eventuality Knowledge Graph with Entailment Relations},\nauthor={Changlong Yu and Hongming Zhang and Yangqiu Song and Wilfred Ng and Lifeng Shang},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=-oXaOxy6up}\n}",
     "forum_id": "-oXaOxy6up",
-    "UID": "Paper69",
+    "UID": "69",
     "session": [],
     "author_profiles": [
       "~Changlong_Yu1",
@@ -1147,7 +1147,7 @@
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\ndas2020nonparametric,\ntitle={Non-Parametric Reasoning in Knowledge Bases},\nauthor={Rajarshi Das and Ameya Godbole and Shehzaad Dhuliawala and Manzil Zaheer and Andrew McCallum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=AEY9tRqlU7}\n}",
     "forum_id": "AEY9tRqlU7",
-    "UID": "Paper48",
+    "UID": "48",
     "session": [],
     "author_profiles": [
       "~Rajarshi_Das1",
