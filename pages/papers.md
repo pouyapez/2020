@@ -12,7 +12,7 @@ All papers, with their reviews and other details, are also available on [OpenRev
 ## Archival Papers
 
 <ul>
-{% for paper in site.data.accepted %}
+{% for paper in site.data.papers %}
     {% if paper['archival_status'] != "" %}
         {% include paper.html p=paper %}
     {% endif %}
@@ -22,7 +22,7 @@ All papers, with their reviews and other details, are also available on [OpenRev
 ## Non-Archival Papers
 
 <ul>
-{% for paper in site.data.accepted %}
+{% for paper in site.data.papers %}
     {% if paper['archival_status'] == "" %}
         {% include paper.html p=paper %}
     {% endif %}
