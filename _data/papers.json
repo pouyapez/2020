@@ -81,7 +81,7 @@
       "Boris Veytsman",
       "Andrew McCallum"
     ],
-    "pdf": "/pdf/cf6333ea0124bf1dfe845cadda878fcdc33a09be.pdf",
+    "pdf": "/pdf/c2006bb2e33b09f6f4e0fa73c0c728119982dec0.pdf",
     "subject_areas": [
       "Information Extraction",
       "Applications",
@@ -542,7 +542,7 @@
       "Christos Faloutsos",
       "Lise Getoor"
     ],
-    "pdf": "/pdf/19a46866687f10db7ab5b4c46f00616d71694357.pdf",
+    "pdf": "/pdf/c384d9622bc112bc12a851743c08173ba8b6017b.pdf",
     "subject_areas": [],
     "abstract": "Presence of near identical, but distinct, entities called entity variations makes the task of data integration challenging. For example, in the domain of grocery products, variations share the same value for attributes such as brand, manufacturer and product line, but differ in other attributes, called variational attributes, such as package size and color. Identifying variations across data sources is an important task in itself and is crucial for identifying duplicates. However, this task is challenging as the variational attributes are often present as a part of unstructured text and are domain dependent. In this work, we propose our approach, Contrastive entity linkage, to identify both entity pairs that are the same and pairs that are variations of each other. We propose a novel unsupervised approach, VarSpot, to mine domain-dependent variational attributes present in unstructured text. The proposed approach reasons about both similarities and differences between entities and can easily scale to large sources containing millions of entities. We show the generality of our approach by performing experimental evaluation on three different domains. Our approach significantly outperforms state-of-the-art learning-based and rule-based entity linkage systems by up to 4% F1 score when identifying duplicates, and up to 41% when identifying entity variations.",
     "paperhash": "embar|contrastive_entity_linkage_mining_variational_attributes_from_large_catalogs_for_entity_linkage",
@@ -701,16 +701,17 @@
     "authors": [
       "Aida Amini",
       "Antoine Bosselut",
-      "Bhavana Dalvi",
+      "Bhavana Dalvi Mishra",
       "Yejin Choi",
       "Hannaneh Hajishirzi"
     ],
-    "pdf": "/pdf/dac64d7d9e9725ad0cf8a3a15c2de6ed2bf794d6.pdf",
+    "pdf": "/pdf/04b6fbc8bce79a1e6979cad8a4579cada205fb2e.pdf",
     "subject_areas": [
       "QuestionAnswering and Reasoning"
     ],
     "abstract": "Procedural texts  often describe processes (e.g., photosynthesis, cooking) that happen over entities (e.g., light, food). In this paper, we introduce an algorithm for procedural reading comprehension by translating the text into a general formalism that represents processes as a sequence of transitions over entity attributes (e.g., location, temperature). Leveraging pre-trained language models, our model obtains entity-aware and attribute-aware representations of the text by joint prediction of entity attributes and their transitions. Our model dynamically obtains contextual encodings of the procedural text exploiting information that is encoded about previous and current states to predict the transition of a certain attribute which can be identified as a spans of texts  or  from a pre-defined set of classes. Moreover, Our model achieves state of the art on two procedural reading comprehension datasets, namely ProPara and npn-Cooking.",
     "paperhash": "amini|procedural_reading_comprehension_with_attributeaware_context_flow",
+    "TL;DR": "We present DynaPro, a neural RC model that tracks the states of a process's participants using jointly formulated entity-aware and attribute-aware representations. DynaPro achieves SOTA results on two procedural RC datasets: ProPara and NPN-cooking.",
     "_bibtex": "@inproceedings{\namini2020procedural,\ntitle={Procedural Reading Comprehension with Attribute-Aware Context Flow},\nauthor={Aida Amini and Antoine Bosselut and Bhavana Dalvi and Yejin Choi and Hannaneh Hajishirzi},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=grnYRcBwjq}\n}",
     "forum_id": "grnYRcBwjq",
     "UID": "63",
@@ -778,13 +779,13 @@
       "Yifan Tian",
       "Sameer Singh"
     ],
-    "pdf": "/pdf/82f00a306642852853f4b7558279e13118872b4d.pdf",
+    "pdf": "/pdf/d6b0ec116a1c450ea723e6b40f28f05394c3bfb6.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "Information Extraction",
       "Machine Learning"
     ],
-    "abstract": "Representing knowledge graphs (KGs) by learning embeddings for entities and relations has provided accurate models for existing KG completion benchmarks. Although extensive research has been carried out on KG completion, because of the open-world assumption of existing KGs, previous studies rely on ranking metrics and triple classification with negative samples for the evaluation and are unable to directly assess the models on the goals of the task, completion. In this paper, we first study the shortcomings of these evaluation metrics. More specifically, we demonstrate that these metrics 1) are unreliable for estimating calibration, 2) make strong assumptions that are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from simple approaches and from each other. To address these issues, we provide a semi-complete KG using a randomly sampled subgraph from the test and validation data of YAGO3-10, allowing us to compute accurate triple classification accuracy on this data. Conducting thorough experiments on existing models, we provide new insights and directions for the KG completion research. ",
+    "abstract": "Representing knowledge graphs (KGs) by learning embeddings for entities and relations has led to accurate models for existing KG completion benchmarks. However, due to the open-world assumption of existing KGs, evaluation of KG completion uses ranking metrics and triple classification with negative samples, and is thus unable to directly assess models on the goals of the task: completion. In this paper, we first study the shortcomings of these evaluation metrics. Specifically, we demonstrate that these metrics (1) are unreliable for estimating how calibrated the models are, (2) make strong assumptions that are often violated, and 3) do not sufficiently, and consistently, differentiate embedding methods from each other, or from simpler approaches. To address these issues, we gather a semi-complete KG referred as YAGO3-TC, using a random subgraph from the test and validation data of YAGO3-10, which enables us to compute accurate triple classification accuracy on this data.  Conducting thorough experiments on existing models, we provide new insights and directions for the KG completion research. Along with the dataset and the open source implementation of the models, we also provide a leaderboard for knowledge graph completion that consists of a hidden, and growing, test set, available at https://pouyapez.github.io/yago3-tc/.",
     "paperhash": "pezeshkpour|revisiting_evaluation_of_knowledge_base_completion_models",
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\npezeshkpour2020revisiting,\ntitle={Revisiting Evaluation of Knowledge Base Completion Models},\nauthor={Pouya Pezeshkpour and Yifan Tian and Sameer Singh},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=1uufzxsxfL}\n}",
@@ -818,7 +819,7 @@
       "Stephan Gu\u0308nnemann",
       "Volker Tresp"
     ],
-    "pdf": "/pdf/24f9ab6b0666209fe92dd980f15ac711c3c1653e.pdf",
+    "pdf": "/pdf/6bf8fa9841324a72dda62a97b55719575685e9a4.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search",
       "Relational AI"
@@ -839,7 +840,13 @@
     ]
   },
   {
-    "keywords": [],
+    "keywords": [
+      "xai",
+      "kbc",
+      "templates",
+      "outcome explanation",
+      "templates"
+    ],
     "TL;DR": "We present an outcome explanation engine for Factorization based KBC",
     "authorids": [
       "yatin.nandwani@gmail.com",
@@ -858,7 +865,7 @@
       "Parag Singla",
       "Mausam"
     ],
-    "pdf": "/pdf/7f22d67db52ecb4d5e310c6d554036029c1cdcd5.pdf",
+    "pdf": "/pdf/e7b6df66f11eee650f669f033e04534540daa09c.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search"
     ],
@@ -948,7 +955,7 @@
       "Luke Vilnis",
       "Andrew McCallum"
     ],
-    "pdf": "/pdf/e9bf5b8df4ce0bc411688f145f94c6ac69e68109.pdf",
+    "pdf": "/pdf/b6de1849f0ca7a9ed23483c4d9420dccbd365f7b.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search"
     ],
@@ -1054,7 +1061,7 @@
       "entailment graph",
       "commonsense reasoning"
     ],
-    "TL;DR": "Large-scale eventuality entailment graph construction",
+    "TL;DR": "We propose a scalable method to construct  the large-scale eventuality entailment graph with high precision. ",
     "authorids": [
       "cyuaq@cse.ust.hk",
       "hzhangal@cse.ust.hk",
@@ -1070,11 +1077,11 @@
       "Wilfred Ng",
       "Lifeng Shang"
     ],
-    "pdf": "/pdf/5e16075b430323508935e5191a4b40681ff3b501.pdf",
+    "pdf": "/pdf/888876ed59decc02bf40752432660b526af5d17c.pdf",
     "subject_areas": [
       "Knowledge Representation, Semantic Web and Search"
     ],
-    "abstract": "The knowledge about entailment relations between eventualities (activities, states, and events) can be helpful for many natural language understanding tasks. Conventional acquisition methods of such knowledge cannot be adapted to large-scale entailment graphs. In this paper, we construct an eventuality entailment graph (EEG) by establishing entailment relations in a large-scale discourse-relation-based eventuality knowledge graph and build the graph for million of eventuality nodes by using a three-step approach to improve the efficiency of the construction process. Experiments demonstrate the high quality of the proposed approach.",
+    "abstract": "Computational and cognitive studies suggest that the abstraction of eventualities (activities, states, and events) is crucial for humans to understand daily eventualities. In this paper, we propose a scalable approach to model the entailment relations between eventualities (\"eat an apple'' entails ''eat fruit''). As a result, we construct a large-scale eventuality entailment graph (EEG), which has 10 million eventuality nodes and 103 million entailment edges. Detailed experiments and analysis demonstrate the effectiveness of the proposed approach and quality of the resulting knowledge graph. Our datasets and code are available at https://github.com/HKUST-KnowComp/ASER-EEG.",
     "paperhash": "yu|enriching_largescale_eventuality_knowledge_graph_with_entailment_relations",
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\nyu2020enriching,\ntitle={Enriching Large-Scale Eventuality Knowledge Graph with Entailment Relations},\nauthor={Changlong Yu and Hongming Zhang and Yangqiu Song and Wilfred Ng and Lifeng Shang},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=-oXaOxy6up}\n}",
