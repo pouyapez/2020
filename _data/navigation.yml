@@ -37,13 +37,13 @@
 #   - title: Call for papers
 #     url: "/cfp/"
 
-# - title: Information for participants
-#   url: "/venue"
-#   side: left
-#   dropdown:
-#     - title: "Venue"
-#       url: "/venue/"
-#       side: left
+- title: Virtual Conference
+  url: "/virtual-details"
+  side: left
+  # dropdown:
+  #   - title: "Venue"
+  #     url: "/venue/"
+  #     side: left
 # dropdown:
 #   - title: "Venue"
 #     url: "/venue/"
@@ -51,11 +51,11 @@
 #   url: "/registration/#visa"
 # - title: "Travel"
 #   url: "/travel/"
-# - title: Sponsors
-#   url: "/sponsors/"
-#   side: left
 - title: Register
   url: "/registration/"
+  side: left
+- title: Sponsors
+  url: "/sponsors/"
   side: left
 
 # - title: Dates

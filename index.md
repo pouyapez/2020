@@ -69,3 +69,21 @@ June 25, 2020: Conference [Workshops]({{ site.baseurl }}/workshops/)<br>
 [AKBC 2013](http://akbc.ws/2013) at CIKM 2013, San Francisco <br />
 [AKBC-WEKEX 2012](http://akbcwekex2012.wordpress.com/) at NAACL 2012, Montreal <br />
 [AKBC 2010](http://videolectures.net/akbc2010_grenoble/) in Grenoble <br />
+
+## Sponsors
+
+<ul id="sponsorsDiv" class="small-block-grid-7">
+  {%- for sponsor in site.data.sponsors -%}
+  <li>
+    <a class="th" href="{{ sponsor.url }}">
+      <img src="{{ site.baseurl }}/assets/img/sponsors/{{ sponsor.UID }}.png" alt="{{ sponsor.name }}"></a>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<script>
+  var div = document.querySelector('#sponsorsDiv');
+  for (var i = div.children.length; i >= 0; i--) {
+      div.appendChild(div.children[Math.random() * i | 0]);
+  }
+</script>

@@ -1,0 +1,25 @@
+---
+layout: page-fullwidth
+title: Sponsors
+permalink: /sponsors/
+header:
+  image_fullwidth: "generic-gradient.png"
+---
+
+AKBC 2020 gratefully recognizes our generous sponsors!
+
+<ul id="sponsorsDiv" class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+  {%- for sponsor in site.data.sponsors -%}
+  <li>
+    <a class="th" href="{{ sponsor.url }}">
+      <img src="{{ site.baseurl }}/assets/img/sponsors/{{ sponsor.UID }}.png" alt="{{ sponsor.name }}"></a>
+  </li>
+  {%- endfor -%}
+</ul>
+
+<script>
+  var div = document.querySelector('#sponsorsDiv');
+  for (var i = div.children.length; i >= 0; i--) {
+      div.appendChild(div.children[Math.random() * i | 0]);
+  }
+</script>

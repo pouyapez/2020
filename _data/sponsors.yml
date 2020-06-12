@@ -1,0 +1,50 @@
+# - 
+#   UID: miniconf
+#   name: Mini-Conf
+#   url: http://mini-conf.github.io
+#   zoomId: 77210465718
+#   description: Placeholder text for any information you want to share with the attendees, in <b>HTML</b> <i>format</i>, including <a href="http://mini-conf.github.io">links</a>. It can be as long, or short, as you like.
+#   contactInfo: Email us at this <i>placeholder HTML text</i>.
+#   attachments: 
+#     - name: Read More Here
+#       filename: sample-slides.pdf
+#   embedPDF: sample-slides.pdf
+#   sessionIds:
+#     - d1hallway
+#     - d2hallway
+#     - d3hallway
+
+-
+  UID: ibm
+  name: IBM
+  url: https://www.ibm.com/
+
+-
+  UID: pimco
+  name: PIMCO
+  url: https://www.pimco.com/
+
+-
+  UID: oracle
+  name: Oracle
+  url: https://labs.oracle.com
+
+-
+  UID: sap
+  name: SAP
+  url: https://www.sap.com/
+
+-
+  UID: microsoft
+  name: Microsoft
+  url: https://www.microsoft.com/
+
+-
+  UID: relational
+  name: Relational.AI
+  url: https://www.relational.ai/
+
+-
+  UID: google
+  name: Google
+  url: https://www.google.com/
