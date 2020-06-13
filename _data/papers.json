@@ -1037,12 +1037,12 @@
       "Ari Kobren",
       "Andrew McCallum"
     ],
-    "pdf": "/pdf/58d958e0235333f87fddec3daa28d323b81de5dd.pdf",
+    "pdf": "/pdf/aca5866d5727cd021e5a9b1e1bdcaa06555b5ad6.pdf",
     "subject_areas": [
       "Information Extraction",
       "Machine Learning"
     ],
-    "abstract": "The hierarchical structure of research organizations plays a pivotal role in science-of-science\nresearch as well as in tools that track the research achievements and output. However, this structure\nis not consistently documented for all institutions in the world, motivating the need for automated\nconstruction methods. In this paper, we present a new task and model for predicting the is-ancestor\nrelationships of institutions based on their string names. We present a model that predicts is-ancestor\nrelationships between the institutions by modeling the set operations between the strings. The model\noverall outperforms all non set-based models and baselines on all, but one metric. We also create a\ndataset for training and evaluating models for this task based on the publicly available relationships\nin the Global Research Identifier Database.",
+    "abstract": "The hierarchical structure of research organizations plays a pivotal role in science of science research as well as in tools that track the research achievements and output. However, this structure is not consistently documented for all institutions in the world, motivating the need for automated construction methods. In this paper, we present a new task and model for predicting sub-institution/super-institution relationships based on their string names. The crux of our model is that it leverages learned, permutation invariant representations of various token subsets of institution name strings. Our model outperforms or matches non-set-based models and baselines. We also create a dataset for training and evaluating models for this task based on the publicly available relationships in the Global Research Identifier Database.",
     "paperhash": "tam|predicting_institution_hierarchies_with_setbased_models",
     "archival_status": "Archival",
     "_bibtex": "@inproceedings{\ntam2020predicting,\ntitle={Predicting Institution Hierarchies with Set-based Models},\nauthor={Derek Tam and Nicholas Monath and Ari Kobren and Andrew McCallum},\nbooktitle={Automated Knowledge Base Construction},\nyear={2020},\nurl={https://openreview.net/forum?id=pJg1LahGc0}\n}",
