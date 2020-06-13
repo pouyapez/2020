@@ -6,14 +6,13 @@ header:
   image_fullwidth: "generic-gradient.png"
 ---
 
-Note that the papers below may not be the final version (yet), but may be the anonymous versions from the _review_ phase (final versions will be available by June 8th).
 All papers, with their reviews and other details, are also available on [OpenReview](https://openreview.net/group?id=AKBC.ws/2020/Conference).
 
 ## Archival Papers
 
 <ul>
 {% for paper in site.data.papers %}
-    {% if paper['archival_status'] != "" %}
+    {% if paper['archival_status'] == "Archival" %}
         {% include paper.html p=paper %}
     {% endif %}
 {% endfor %}
