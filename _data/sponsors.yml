@@ -1,11 +1,11 @@
-# - 
+# -
 #   UID: miniconf
 #   name: Mini-Conf
 #   url: http://mini-conf.github.io
 #   zoomId: 77210465718
 #   description: Placeholder text for any information you want to share with the attendees, in <b>HTML</b> <i>format</i>, including <a href="http://mini-conf.github.io">links</a>. It can be as long, or short, as you like.
 #   contactInfo: Email us at this <i>placeholder HTML text</i>.
-#   attachments: 
+#   attachments:
 #     - name: Read More Here
 #       filename: sample-slides.pdf
 #   embedPDF: sample-slides.pdf
