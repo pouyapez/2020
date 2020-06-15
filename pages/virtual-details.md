@@ -12,7 +12,7 @@ This document describes the plan for the virtual conference sessions for AKBC 20
 
 ## Software Services
 
-The main portal for the conference will be hosted at [http://akbc.ws/virtual](http://akbc.ws/virtual), accessible only to registrered attendees during the conference. We will be relying on the following during the conference:
+The main portal for the conference will be hosted at [http://akbc.ws/2020/virtual](http://akbc.ws/2020/virtual), accessible only to registrered attendees during the conference. We will be relying on the following during the conference:
 
 - [Rocket.chat](http://rocket.chat), for Slack-like functionality, embedded in the website.
 - [Zoom](http://zoom.us) meetings and webinars, for hosting all live sessions.
