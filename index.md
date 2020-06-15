@@ -70,7 +70,7 @@ June 25, 2020: Conference [Workshops]({{ site.baseurl }}/workshops/)<br>
 [AKBC-WEKEX 2012](http://akbcwekex2012.wordpress.com/) at NAACL 2012, Montreal <br />
 [AKBC 2010](http://videolectures.net/akbc2010_grenoble/) in Grenoble <br />
 
-## Sponsors
+<!-- ## Sponsors
 
 <ul id="sponsorsDiv" class="small-block-grid-7">
   {%- for sponsor in site.data.sponsors -%}
@@ -86,4 +86,4 @@ June 25, 2020: Conference [Workshops]({{ site.baseurl }}/workshops/)<br>
   for (var i = div.children.length; i >= 0; i--) {
       div.appendChild(div.children[Math.random() * i | 0]);
   }
-</script>
+</script> -->
