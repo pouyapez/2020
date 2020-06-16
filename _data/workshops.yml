@@ -10,7 +10,10 @@
     - Gianluca Demartini
     - Fatma Özcan
   duration: Half-day
-  abstract: ""
+  abstract: "<p>Knowledge Graphs (KGs) store human knowledge about the world in structured format, e.g., triples of facts or graphs of entities and relations, to be processed by AI systems. In the past decade, extensive research efforts have gone into constructing and utilizing knowledge graphs for tasks in natural language processing, information retrieval, recommender systems, and more. Once constructed, knowledge graphs are often considered as “gold standard” data sources that safeguard the correctness of other systems. Because the biases inherent to KGs may become magnified and spread through such systems, it is crucial that we acknowledge and address various types of bias in knowledge graph construction.</p>
+  <p>Such biases may originate in the very design of the KG, in the source data from which it is created (semi-)automatically, and in the algorithms used to sample, aggregate, and process that data. Causes of bias include systematic errors due to selecting non-random items (selection bias), misremembering certain events (recall bias), and interpreting facts in a way that affirms individuals’ preconceptions (confirmation bias). Biases typically appear subliminally in expressions, utterances, and text in general and can carry over into downstream representations such as embeddings and knowledge graphs.</p>
+  <p>This workshop – to be held for the first time at AKBC 2020 – addresses the questions: “how do such biases originate?”, “How do we identify them?”, and “What is the appropriate way to handle them, if at all?”. This topic is as-yet unexplored and the goal of our workshop is to start a meaningful, long-lasting dialogue spanning researchers across a wide variety of backgrounds and communities.</p>"
+  zoomId: 87147230242
 
 - UID: kbmm
   title: Knowledge Bases and Multiple Modalities
@@ -25,7 +28,16 @@
     - Partha Talukdar
     - Sameer Singh
   duration: Half-day
-  abstract: ""
+  abstract: "<p>Recently, there has been growing interest in combining knowledge bases and multiple modalities such as NLP, vision and speech. These combinations have resulted in improvements to various downstream tasks including question answering, image classification, object detection, and link prediction. The objectives of the KBMM workshop is to bring together researchers interested in (a) combining knowledge bases with other modalities to showcase more effective downstream tasks, (b) improving completion and construction of knowledge bases from multiple modalities, and in general, to share state-of-the-art approaches, best practices, and future directions.</p>
+  <p>The workshop on Knowledge Bases and Multiple Modalities (KBMM) will consist of contributed posters, and invited talks on a wide variety of methods and problems in this area. We invite extended abstract submissions in the following categories to present at the workshop:</p>
+  <ul>
+  <li>Knowledge base completion using multiple modalities
+  <li>Using knowledge bases in NLP tasks
+  <li>Vision and knowledge bases
+  <li>Information extraction
+  <li>Optimization challenges in multimodal scenarios
+  <li>Benchmark datasets and evaluation methods</ul>"
+  zoomId: 71764919889
 
 - UID: uskb
   title: Structured and Unstructured KBs
@@ -38,7 +50,17 @@
     - Pat Verga
   duration: Half-day
   url: https://uskb-workshop.github.io/
-  abstract: ""
+  abstract: "<p>There has been growing interest in extracting, representing, and applying knowledge. In NLP literatures, both structured (e.g. Freebase, Wikidata) and unstructured (plain text) text have been used as knowledge sources. Knowledge from such sources plays an important role in advancing the state-of-the-art in various downstream tasks, such as question answering, generation and fact verification.</p>
+  <p>The objectives of this workshop is to bring together researchers interested in effectively extracting, representing, and applying knowledge in various different ways. We promote discussions in related topics including but not limited to:</p>
+  <ul>
+  <li>The role of explicit structure in representing knowledge in the future
+  <li>Can language models be knowledge bases?
+  <li>How to effectively combine structured and unstructured knowledge?
+  <li>How to effectively combine external (explicit) and parameterized (implicit) knowledge?
+  <li>How to interpret knowledge that the models potentially have?
+  <li>Applications that make use of structured or unstructured knowledge
+  <li>Transfer learning for diverse knowledge sources<ul>"
+  zoomId: 73307451410
 
 - UID: scinlp
   title: Natural Language Processing and Data Mining for Scientific Text
@@ -52,4 +74,23 @@
     - Lucy Lu Wang
   duration: Half-day
   url: https://scinlp-workshop.github.io/
-  abstract: ""
+  abstract: "<p>The primary goal of this half-day workshop is to bring together researchers from diverse fields who are interested in extracting and representing knowledge from scientific text, and/or applications or methods for improving access to and understanding of such knowledge. Such research includes, but is not limited to:</p>
+  <ul>
+  <li> <b>Methods</b> in natural language processing and data mining for extracting and representing knowledge from scientific text (e.g. information extraction, entity normalization, discourse analysis, parsing, summarization, text generation, question answering, knowledge base construction, weak/distant supervision, crowdsourcing),<br>
+  <li> <b>Applications</b> of these methods to improving scientific knowledge discovery and/or understanding (e.g. automated literature review, search and recommender systems, techniques for data exploration and visualization),<br>
+  <li> <b>Fairness</b> (e.g. augmented or assistive paper reading, concept simplification, scientific education and literacy),<br>
+  <li> <b>Science of science</b> studies (in particular, studies that shed light on phenomena that can motivate future research in above-mentioned areas), and<br>
+  <li> <b>Datasets, Resources</b> (e.g. treebanks, knowledge bases), and Tools (e.g. software libraries, annotation interfaces) for conducting research in such areas.</ul>
+  <p>
+  We welcome research relevant to processing text in any domain of science (e.g. Biology, Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets by scholars, blogs/tutorials, etc.)</p>"
+  zoomId: 82913366497
+  additionalZooms:
+    -
+      name: "Poster Session 1"
+      zoomId: 89795024676
+    -
+      name: "Poster Session 2"
+      zoomId: 81745212184
+    -
+      name: "Poster Session 3"
+      zoomId: 84238172349
