@@ -8,26 +8,26 @@ header:
 
 Workshops will take place on **June 25, 2020** from 8am-1pm, PT.
 
-<ul>
+<div>
 {% for workshop in site.data.workshops %}
-    <li>
-    <b>
+    <h3>
         {{- workshop.title -}}
         {% if workshop.acronym %}
             ({{- workshop.acronym -}})
         {%- endif -%}
-    </b>, <i>{{- workshop.duration -}}</i>
-    {%- if workshop.url -%}
-    , <a href="{{ workshop.url }}">Website</a>
-    {%- endif -%}
+    </h3>
+    <!-- , <i>{{- workshop.duration -}}</i> -->
     {%- if workshop.authors -%}
-    <br>
-    <i>
+    <span class="subheadline">
         {{- workshop.authors | join: ", " -}}
-    </i>
+    </span>
     {%- endif -%}
-    </li>
+    <br/>
+    {%- if workshop.url -%}
+    <a class="button grey" href="{{-workshop.url-}}">Website</a>
+    {%- endif -%}
+    <a class="button" href="https://akbc.apps.allenai.org/workshop_{{- workshop.UID -}}.html">Live Event</a>
 {% endfor %}
-</ul>
+</div>
 
 If you have any questions, please get in touch with our workshop chairs.
